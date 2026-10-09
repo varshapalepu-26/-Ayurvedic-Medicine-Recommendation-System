@@ -47,35 +47,6 @@ The repo also includes experiments with other classifiers (Naive Bayes, SVM) and
 | Backend | Flask |
 | Frontend | HTML5, CSS3, JavaScript |
 
-##  Getting Started
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/MSushmitha02/Aayurvedic-Medicine-Recommendation-System.git
-cd Aayurvedic-Medicine-Recommendation-System
-```
-
-**2. Install dependencies**
-
-```bash
-pip install flask scikit-learn pandas numpy joblib
-```
-
-**3. (Optional) Retrain the model**
-
-```bash
-python train.py
-```
-
-**4. Run the app**
-
-```bash
-python app.py
-```
-
-Open **http://127.0.0.1:5000** in your browser.
-
 ##  API
 
 **`POST /predict`**
