@@ -1,0 +1,739 @@
+Disease,Age Group,Gender,Severity,Recommended Ayurvedic Medicines (with dosage if applicable)
+Fungal infection,child,male,low,Triphala Churna; Abhrak Bhasma; Yashtimadhu; Guduchi Satva; Chandraprabha Vati
+Fungal infection,child,male,medium,Manjishtha Churna; Khadirarishta; Lasunadi Vati; Shatavari Kalpa; Yashtimadhu
+Fungal infection,child,male,high,Amritarishta; Nimbadi Kwath; Yashtimadhu; Shatavari Kalpa; Haridra Khanda
+Fungal infection,child,female,low,Lasunadi Vati; Manjishtha Churna; Sitopaladi Churna; Haridra Khanda; Triphala Churna
+Fungal infection,child,female,medium,Haridra Khanda; Punarnavadi Kwath; Shatavari Kalpa; Yashtimadhu; Ashwagandha Churna
+Fungal infection,child,female,high,Shatavari Kalpa; Abhrak Bhasma; Nishamalaki Churna; Nimbadi Kwath; Triphala Churna
+Fungal infection,adult,male,low,Guduchi Satva; Punarnavadi Kwath; Manjishtha Churna; Haridra Khanda; Yashtimadhu
+Fungal infection,adult,male,medium,Haridra Khanda; Shatavari Kalpa; Khadirarishta; Arogyavardhini Vati; Sitopaladi Churna
+Fungal infection,adult,male,high,Yashtimadhu; Amritarishta; Haridra Khanda; Sitopaladi Churna; Manjishtha Churna
+Fungal infection,adult,female,low,Guduchi Satva; Ashwagandha Churna; Arogyavardhini Vati; Haridra Khanda; Lasunadi Vati
+Fungal infection,adult,female,medium,Abhrak Bhasma; Nimbadi Kwath; Maha Sudarshan Churna; Ashwagandha Churna; Nishamalaki Churna
+Fungal infection,adult,female,high,Manjishtha Churna; Haridra Khanda; Lasunadi Vati; Guduchi Satva; Chandraprabha Vati
+Fungal infection,elderly,male,low,Shatavari Kalpa; Maha Sudarshan Churna; Nimbadi Kwath; Chandraprabha Vati; Amritarishta
+Fungal infection,elderly,male,medium,Chandraprabha Vati; Guduchi Satva; Sitopaladi Churna; Haridra Khanda; Arogyavardhini Vati
+Fungal infection,elderly,male,high,Arogyavardhini Vati; Lasunadi Vati; Ashwagandha Churna; Sitopaladi Churna; Manjishtha Churna
+Fungal infection,elderly,female,low,Arogyavardhini Vati; Guduchi Satva; Triphala Churna; Punarnavadi Kwath; Manjishtha Churna
+Fungal infection,elderly,female,medium,Manjishtha Churna; Yashtimadhu; Maha Sudarshan Churna; Sitopaladi Churna; Abhrak Bhasma
+Fungal infection,elderly,female,high,Manjishtha Churna; Nimbadi Kwath; Arogyavardhini Vati; Maha Sudarshan Churna; Ashwagandha Churna
+Allergy,child,male,low,Amritarishta; Chandraprabha Vati; Nimbadi Kwath; Yashtimadhu; Haridra Khanda
+Allergy,child,male,medium,Guduchi Satva; Ashwagandha Churna; Amritarishta; Nimbadi Kwath; Punarnavadi Kwath
+Allergy,child,male,high,Guduchi Satva; Lasunadi Vati; Triphala Churna; Ashwagandha Churna; Yashtimadhu
+Allergy,child,female,low,Nimbadi Kwath; Sitopaladi Churna; Khadirarishta; Yashtimadhu; Ashwagandha Churna
+Allergy,child,female,medium,Yashtimadhu; Arogyavardhini Vati; Manjishtha Churna; Chandraprabha Vati; Haridra Khanda
+Allergy,child,female,high,Khadirarishta; Lasunadi Vati; Amritarishta; Nishamalaki Churna; Chandraprabha Vati
+Allergy,adult,male,low,Amritarishta; Nimbadi Kwath; Shatavari Kalpa; Manjishtha Churna; Sitopaladi Churna
+Allergy,adult,male,medium,Sitopaladi Churna; Triphala Churna; Haridra Khanda; Khadirarishta; Chandraprabha Vati
+Allergy,adult,male,high,Maha Sudarshan Churna; Nishamalaki Churna; Shatavari Kalpa; Guduchi Satva; Abhrak Bhasma
+Allergy,adult,female,low,Ashwagandha Churna; Amritarishta; Manjishtha Churna; Haridra Khanda; Nimbadi Kwath
+Allergy,adult,female,medium,Lasunadi Vati; Nimbadi Kwath; Shatavari Kalpa; Punarnavadi Kwath; Khadirarishta
+Allergy,adult,female,high,Triphala Churna; Ashwagandha Churna; Amritarishta; Maha Sudarshan Churna; Sitopaladi Churna
+Allergy,elderly,male,low,Guduchi Satva; Lasunadi Vati; Chandraprabha Vati; Nimbadi Kwath; Sitopaladi Churna
+Allergy,elderly,male,medium,Guduchi Satva; Haridra Khanda; Chandraprabha Vati; Abhrak Bhasma; Shatavari Kalpa
+Allergy,elderly,male,high,Triphala Churna; Sitopaladi Churna; Lasunadi Vati; Ashwagandha Churna; Chandraprabha Vati
+Allergy,elderly,female,low,Manjishtha Churna; Nishamalaki Churna; Amritarishta; Punarnavadi Kwath; Sitopaladi Churna
+Allergy,elderly,female,medium,Punarnavadi Kwath; Chandraprabha Vati; Amritarishta; Haridra Khanda; Nishamalaki Churna
+Allergy,elderly,female,high,Punarnavadi Kwath; Arogyavardhini Vati; Maha Sudarshan Churna; Nishamalaki Churna; Sitopaladi Churna
+GERD,child,male,low,Guduchi Satva; Maha Sudarshan Churna; Khadirarishta; Nishamalaki Churna; Shatavari Kalpa
+GERD,child,male,medium,Nimbadi Kwath; Amritarishta; Abhrak Bhasma; Khadirarishta; Sitopaladi Churna
+GERD,child,male,high,Triphala Churna; Haridra Khanda; Yashtimadhu; Amritarishta; Punarnavadi Kwath
+GERD,child,female,low,Nimbadi Kwath; Punarnavadi Kwath; Abhrak Bhasma; Triphala Churna; Khadirarishta
+GERD,child,female,medium,Chandraprabha Vati; Guduchi Satva; Abhrak Bhasma; Maha Sudarshan Churna; Yashtimadhu
+GERD,child,female,high,Shatavari Kalpa; Lasunadi Vati; Yashtimadhu; Triphala Churna; Manjishtha Churna
+GERD,adult,male,low,Abhrak Bhasma; Arogyavardhini Vati; Punarnavadi Kwath; Shatavari Kalpa; Yashtimadhu
+GERD,adult,male,medium,Punarnavadi Kwath; Abhrak Bhasma; Nishamalaki Churna; Ashwagandha Churna; Yashtimadhu
+GERD,adult,male,high,Nimbadi Kwath; Yashtimadhu; Triphala Churna; Arogyavardhini Vati; Punarnavadi Kwath
+GERD,adult,female,low,Amritarishta; Arogyavardhini Vati; Maha Sudarshan Churna; Sitopaladi Churna; Manjishtha Churna
+GERD,adult,female,medium,Amritarishta; Guduchi Satva; Manjishtha Churna; Haridra Khanda; Ashwagandha Churna
+GERD,adult,female,high,Nimbadi Kwath; Arogyavardhini Vati; Triphala Churna; Ashwagandha Churna; Sitopaladi Churna
+GERD,elderly,male,low,Yashtimadhu; Abhrak Bhasma; Nimbadi Kwath; Shatavari Kalpa; Manjishtha Churna
+GERD,elderly,male,medium,Punarnavadi Kwath; Manjishtha Churna; Triphala Churna; Abhrak Bhasma; Nishamalaki Churna
+GERD,elderly,male,high,Khadirarishta; Sitopaladi Churna; Maha Sudarshan Churna; Ashwagandha Churna; Guduchi Satva
+GERD,elderly,female,low,Shatavari Kalpa; Guduchi Satva; Haridra Khanda; Ashwagandha Churna; Chandraprabha Vati
+GERD,elderly,female,medium,Nishamalaki Churna; Abhrak Bhasma; Shatavari Kalpa; Punarnavadi Kwath; Guduchi Satva
+GERD,elderly,female,high,Abhrak Bhasma; Haridra Khanda; Maha Sudarshan Churna; Shatavari Kalpa; Ashwagandha Churna
+Chronic cholestasis,child,male,low,Triphala Churna; Ashwagandha Churna; Yashtimadhu; Amritarishta; Arogyavardhini Vati
+Chronic cholestasis,child,male,medium,Khadirarishta; Manjishtha Churna; Abhrak Bhasma; Chandraprabha Vati; Guduchi Satva
+Chronic cholestasis,child,male,high,Haridra Khanda; Triphala Churna; Arogyavardhini Vati; Khadirarishta; Nimbadi Kwath
+Chronic cholestasis,child,female,low,Amritarishta; Nimbadi Kwath; Shatavari Kalpa; Ashwagandha Churna; Punarnavadi Kwath
+Chronic cholestasis,child,female,medium,Punarnavadi Kwath; Khadirarishta; Shatavari Kalpa; Nishamalaki Churna; Guduchi Satva
+Chronic cholestasis,child,female,high,Guduchi Satva; Lasunadi Vati; Amritarishta; Haridra Khanda; Nimbadi Kwath
+Chronic cholestasis,adult,male,low,Khadirarishta; Yashtimadhu; Ashwagandha Churna; Shatavari Kalpa; Amritarishta
+Chronic cholestasis,adult,male,medium,Arogyavardhini Vati; Punarnavadi Kwath; Chandraprabha Vati; Guduchi Satva; Nishamalaki Churna
+Chronic cholestasis,adult,male,high,Arogyavardhini Vati; Amritarishta; Chandraprabha Vati; Abhrak Bhasma; Punarnavadi Kwath
+Chronic cholestasis,adult,female,low,Punarnavadi Kwath; Chandraprabha Vati; Yashtimadhu; Haridra Khanda; Guduchi Satva
+Chronic cholestasis,adult,female,medium,Nishamalaki Churna; Shatavari Kalpa; Guduchi Satva; Lasunadi Vati; Nimbadi Kwath
+Chronic cholestasis,adult,female,high,Abhrak Bhasma; Sitopaladi Churna; Punarnavadi Kwath; Haridra Khanda; Khadirarishta
+Chronic cholestasis,elderly,male,low,Triphala Churna; Nimbadi Kwath; Punarnavadi Kwath; Chandraprabha Vati; Lasunadi Vati
+Chronic cholestasis,elderly,male,medium,Nimbadi Kwath; Guduchi Satva; Chandraprabha Vati; Khadirarishta; Manjishtha Churna
+Chronic cholestasis,elderly,male,high,Khadirarishta; Sitopaladi Churna; Haridra Khanda; Yashtimadhu; Ashwagandha Churna
+Chronic cholestasis,elderly,female,low,Khadirarishta; Abhrak Bhasma; Amritarishta; Lasunadi Vati; Nimbadi Kwath
+Chronic cholestasis,elderly,female,medium,Chandraprabha Vati; Khadirarishta; Lasunadi Vati; Arogyavardhini Vati; Haridra Khanda
+Chronic cholestasis,elderly,female,high,Haridra Khanda; Lasunadi Vati; Maha Sudarshan Churna; Chandraprabha Vati; Guduchi Satva
+Drug Reaction,child,male,low,Nishamalaki Churna; Nimbadi Kwath; Shatavari Kalpa; Guduchi Satva; Manjishtha Churna
+Drug Reaction,child,male,medium,Sitopaladi Churna; Punarnavadi Kwath; Manjishtha Churna; Abhrak Bhasma; Amritarishta
+Drug Reaction,child,male,high,Maha Sudarshan Churna; Ashwagandha Churna; Sitopaladi Churna; Triphala Churna; Nishamalaki Churna
+Drug Reaction,child,female,low,Nimbadi Kwath; Lasunadi Vati; Chandraprabha Vati; Yashtimadhu; Nishamalaki Churna
+Drug Reaction,child,female,medium,Guduchi Satva; Chandraprabha Vati; Nishamalaki Churna; Lasunadi Vati; Punarnavadi Kwath
+Drug Reaction,child,female,high,Nishamalaki Churna; Sitopaladi Churna; Maha Sudarshan Churna; Amritarishta; Yashtimadhu
+Drug Reaction,adult,male,low,Chandraprabha Vati; Sitopaladi Churna; Guduchi Satva; Ashwagandha Churna; Maha Sudarshan Churna
+Drug Reaction,adult,male,medium,Abhrak Bhasma; Amritarishta; Yashtimadhu; Lasunadi Vati; Chandraprabha Vati
+Drug Reaction,adult,male,high,Manjishtha Churna; Khadirarishta; Triphala Churna; Maha Sudarshan Churna; Amritarishta
+Drug Reaction,adult,female,low,Khadirarishta; Ashwagandha Churna; Triphala Churna; Punarnavadi Kwath; Arogyavardhini Vati
+Drug Reaction,adult,female,medium,Triphala Churna; Arogyavardhini Vati; Haridra Khanda; Guduchi Satva; Ashwagandha Churna
+Drug Reaction,adult,female,high,Chandraprabha Vati; Ashwagandha Churna; Haridra Khanda; Maha Sudarshan Churna; Nishamalaki Churna
+Drug Reaction,elderly,male,low,Nishamalaki Churna; Ashwagandha Churna; Triphala Churna; Maha Sudarshan Churna; Guduchi Satva
+Drug Reaction,elderly,male,medium,Yashtimadhu; Arogyavardhini Vati; Ashwagandha Churna; Manjishtha Churna; Punarnavadi Kwath
+Drug Reaction,elderly,male,high,Arogyavardhini Vati; Khadirarishta; Punarnavadi Kwath; Nishamalaki Churna; Yashtimadhu
+Drug Reaction,elderly,female,low,Arogyavardhini Vati; Amritarishta; Punarnavadi Kwath; Nimbadi Kwath; Haridra Khanda
+Drug Reaction,elderly,female,medium,Haridra Khanda; Manjishtha Churna; Abhrak Bhasma; Sitopaladi Churna; Maha Sudarshan Churna
+Drug Reaction,elderly,female,high,Nishamalaki Churna; Amritarishta; Chandraprabha Vati; Manjishtha Churna; Lasunadi Vati
+Peptic ulcer diseae,child,male,low,Punarnavadi Kwath; Nimbadi Kwath; Ashwagandha Churna; Yashtimadhu; Shatavari Kalpa
+Peptic ulcer diseae,child,male,medium,Ashwagandha Churna; Chandraprabha Vati; Abhrak Bhasma; Amritarishta; Haridra Khanda
+Peptic ulcer diseae,child,male,high,Triphala Churna; Amritarishta; Shatavari Kalpa; Nishamalaki Churna; Manjishtha Churna
+Peptic ulcer diseae,child,female,low,Shatavari Kalpa; Maha Sudarshan Churna; Nimbadi Kwath; Ashwagandha Churna; Khadirarishta
+Peptic ulcer diseae,child,female,medium,Abhrak Bhasma; Ashwagandha Churna; Guduchi Satva; Arogyavardhini Vati; Maha Sudarshan Churna
+Peptic ulcer diseae,child,female,high,Arogyavardhini Vati; Nishamalaki Churna; Ashwagandha Churna; Chandraprabha Vati; Abhrak Bhasma
+Peptic ulcer diseae,adult,male,low,Manjishtha Churna; Nishamalaki Churna; Punarnavadi Kwath; Amritarishta; Sitopaladi Churna
+Peptic ulcer diseae,adult,male,medium,Guduchi Satva; Sitopaladi Churna; Maha Sudarshan Churna; Amritarishta; Triphala Churna
+Peptic ulcer diseae,adult,male,high,Amritarishta; Sitopaladi Churna; Yashtimadhu; Manjishtha Churna; Triphala Churna
+Peptic ulcer diseae,adult,female,low,Nishamalaki Churna; Sitopaladi Churna; Manjishtha Churna; Ashwagandha Churna; Chandraprabha Vati
+Peptic ulcer diseae,adult,female,medium,Manjishtha Churna; Ashwagandha Churna; Haridra Khanda; Chandraprabha Vati; Khadirarishta
+Peptic ulcer diseae,adult,female,high,Ashwagandha Churna; Nishamalaki Churna; Chandraprabha Vati; Shatavari Kalpa; Sitopaladi Churna
+Peptic ulcer diseae,elderly,male,low,Shatavari Kalpa; Khadirarishta; Chandraprabha Vati; Nimbadi Kwath; Guduchi Satva
+Peptic ulcer diseae,elderly,male,medium,Haridra Khanda; Yashtimadhu; Maha Sudarshan Churna; Amritarishta; Nishamalaki Churna
+Peptic ulcer diseae,elderly,male,high,Ashwagandha Churna; Amritarishta; Yashtimadhu; Haridra Khanda; Chandraprabha Vati
+Peptic ulcer diseae,elderly,female,low,Nimbadi Kwath; Chandraprabha Vati; Guduchi Satva; Arogyavardhini Vati; Punarnavadi Kwath
+Peptic ulcer diseae,elderly,female,medium,Triphala Churna; Abhrak Bhasma; Lasunadi Vati; Manjishtha Churna; Ashwagandha Churna
+Peptic ulcer diseae,elderly,female,high,Abhrak Bhasma; Haridra Khanda; Guduchi Satva; Ashwagandha Churna; Amritarishta
+AIDS,child,male,low,Khadirarishta; Yashtimadhu; Arogyavardhini Vati; Guduchi Satva; Abhrak Bhasma
+AIDS,child,male,medium,Sitopaladi Churna; Maha Sudarshan Churna; Khadirarishta; Yashtimadhu; Guduchi Satva
+AIDS,child,male,high,Chandraprabha Vati; Punarnavadi Kwath; Arogyavardhini Vati; Triphala Churna; Abhrak Bhasma
+AIDS,child,female,low,Amritarishta; Guduchi Satva; Chandraprabha Vati; Haridra Khanda; Abhrak Bhasma
+AIDS,child,female,medium,Nimbadi Kwath; Khadirarishta; Nishamalaki Churna; Shatavari Kalpa; Sitopaladi Churna
+AIDS,child,female,high,Guduchi Satva; Nishamalaki Churna; Khadirarishta; Maha Sudarshan Churna; Amritarishta
+AIDS,adult,male,low,Shatavari Kalpa; Khadirarishta; Abhrak Bhasma; Amritarishta; Arogyavardhini Vati
+AIDS,adult,male,medium,Maha Sudarshan Churna; Abhrak Bhasma; Punarnavadi Kwath; Nishamalaki Churna; Sitopaladi Churna
+AIDS,adult,male,high,Haridra Khanda; Sitopaladi Churna; Ashwagandha Churna; Shatavari Kalpa; Chandraprabha Vati
+AIDS,adult,female,low,Guduchi Satva; Triphala Churna; Amritarishta; Maha Sudarshan Churna; Khadirarishta
+AIDS,adult,female,medium,Punarnavadi Kwath; Triphala Churna; Guduchi Satva; Lasunadi Vati; Arogyavardhini Vati
+AIDS,adult,female,high,Haridra Khanda; Khadirarishta; Guduchi Satva; Arogyavardhini Vati; Sitopaladi Churna
+AIDS,elderly,male,low,Sitopaladi Churna; Guduchi Satva; Chandraprabha Vati; Triphala Churna; Amritarishta
+AIDS,elderly,male,medium,Arogyavardhini Vati; Maha Sudarshan Churna; Shatavari Kalpa; Lasunadi Vati; Guduchi Satva
+AIDS,elderly,male,high,Punarnavadi Kwath; Shatavari Kalpa; Lasunadi Vati; Haridra Khanda; Ashwagandha Churna
+AIDS,elderly,female,low,Punarnavadi Kwath; Nimbadi Kwath; Triphala Churna; Haridra Khanda; Chandraprabha Vati
+AIDS,elderly,female,medium,Yashtimadhu; Amritarishta; Haridra Khanda; Sitopaladi Churna; Lasunadi Vati
+AIDS,elderly,female,high,Maha Sudarshan Churna; Amritarishta; Yashtimadhu; Shatavari Kalpa; Chandraprabha Vati
+Diabetes,child,male,low,Lasunadi Vati; Yashtimadhu; Manjishtha Churna; Nimbadi Kwath; Shatavari Kalpa
+Diabetes,child,male,medium,Arogyavardhini Vati; Khadirarishta; Ashwagandha Churna; Haridra Khanda; Sitopaladi Churna
+Diabetes,child,male,high,Guduchi Satva; Lasunadi Vati; Sitopaladi Churna; Shatavari Kalpa; Abhrak Bhasma
+Diabetes,child,female,low,Guduchi Satva; Ashwagandha Churna; Manjishtha Churna; Chandraprabha Vati; Amritarishta
+Diabetes,child,female,medium,Nimbadi Kwath; Abhrak Bhasma; Sitopaladi Churna; Arogyavardhini Vati; Shatavari Kalpa
+Diabetes,child,female,high,Ashwagandha Churna; Sitopaladi Churna; Yashtimadhu; Abhrak Bhasma; Shatavari Kalpa
+Diabetes,adult,male,low,Ashwagandha Churna; Lasunadi Vati; Sitopaladi Churna; Khadirarishta; Triphala Churna
+Diabetes,adult,male,medium,Guduchi Satva; Punarnavadi Kwath; Khadirarishta; Nimbadi Kwath; Ashwagandha Churna
+Diabetes,adult,male,high,Triphala Churna; Manjishtha Churna; Lasunadi Vati; Ashwagandha Churna; Sitopaladi Churna
+Diabetes,adult,female,low,Abhrak Bhasma; Chandraprabha Vati; Haridra Khanda; Yashtimadhu; Guduchi Satva
+Diabetes,adult,female,medium,Maha Sudarshan Churna; Arogyavardhini Vati; Ashwagandha Churna; Haridra Khanda; Yashtimadhu
+Diabetes,adult,female,high,Punarnavadi Kwath; Manjishtha Churna; Chandraprabha Vati; Khadirarishta; Abhrak Bhasma
+Diabetes,elderly,male,low,Manjishtha Churna; Chandraprabha Vati; Triphala Churna; Guduchi Satva; Maha Sudarshan Churna
+Diabetes,elderly,male,medium,Ashwagandha Churna; Nimbadi Kwath; Nishamalaki Churna; Guduchi Satva; Triphala Churna
+Diabetes,elderly,male,high,Sitopaladi Churna; Shatavari Kalpa; Triphala Churna; Abhrak Bhasma; Punarnavadi Kwath
+Diabetes,elderly,female,low,Ashwagandha Churna; Manjishtha Churna; Triphala Churna; Yashtimadhu; Amritarishta
+Diabetes,elderly,female,medium,Chandraprabha Vati; Ashwagandha Churna; Haridra Khanda; Manjishtha Churna; Shatavari Kalpa
+Diabetes,elderly,female,high,Chandraprabha Vati; Sitopaladi Churna; Khadirarishta; Punarnavadi Kwath; Shatavari Kalpa
+Gastroenteritis,child,male,low,Manjishtha Churna; Chandraprabha Vati; Amritarishta; Ashwagandha Churna; Abhrak Bhasma
+Gastroenteritis,child,male,medium,Haridra Khanda; Yashtimadhu; Amritarishta; Guduchi Satva; Chandraprabha Vati
+Gastroenteritis,child,male,high,Sitopaladi Churna; Khadirarishta; Lasunadi Vati; Ashwagandha Churna; Nishamalaki Churna
+Gastroenteritis,child,female,low,Nimbadi Kwath; Nishamalaki Churna; Chandraprabha Vati; Triphala Churna; Maha Sudarshan Churna
+Gastroenteritis,child,female,medium,Ashwagandha Churna; Triphala Churna; Nimbadi Kwath; Abhrak Bhasma; Arogyavardhini Vati
+Gastroenteritis,child,female,high,Yashtimadhu; Amritarishta; Sitopaladi Churna; Punarnavadi Kwath; Abhrak Bhasma
+Gastroenteritis,adult,male,low,Yashtimadhu; Arogyavardhini Vati; Guduchi Satva; Punarnavadi Kwath; Abhrak Bhasma
+Gastroenteritis,adult,male,medium,Abhrak Bhasma; Maha Sudarshan Churna; Khadirarishta; Punarnavadi Kwath; Ashwagandha Churna
+Gastroenteritis,adult,male,high,Abhrak Bhasma; Nishamalaki Churna; Triphala Churna; Arogyavardhini Vati; Ashwagandha Churna
+Gastroenteritis,adult,female,low,Abhrak Bhasma; Arogyavardhini Vati; Punarnavadi Kwath; Lasunadi Vati; Ashwagandha Churna
+Gastroenteritis,adult,female,medium,Lasunadi Vati; Haridra Khanda; Guduchi Satva; Manjishtha Churna; Shatavari Kalpa
+Gastroenteritis,adult,female,high,Shatavari Kalpa; Haridra Khanda; Lasunadi Vati; Amritarishta; Maha Sudarshan Churna
+Gastroenteritis,elderly,male,low,Lasunadi Vati; Nishamalaki Churna; Khadirarishta; Punarnavadi Kwath; Maha Sudarshan Churna
+Gastroenteritis,elderly,male,medium,Nishamalaki Churna; Guduchi Satva; Arogyavardhini Vati; Khadirarishta; Shatavari Kalpa
+Gastroenteritis,elderly,male,high,Guduchi Satva; Manjishtha Churna; Khadirarishta; Lasunadi Vati; Amritarishta
+Gastroenteritis,elderly,female,low,Abhrak Bhasma; Nimbadi Kwath; Triphala Churna; Haridra Khanda; Ashwagandha Churna
+Gastroenteritis,elderly,female,medium,Amritarishta; Sitopaladi Churna; Guduchi Satva; Punarnavadi Kwath; Nishamalaki Churna
+Gastroenteritis,elderly,female,high,Abhrak Bhasma; Lasunadi Vati; Maha Sudarshan Churna; Shatavari Kalpa; Arogyavardhini Vati
+Bronchial Asthma,child,male,low,Triphala Churna; Arogyavardhini Vati; Manjishtha Churna; Ashwagandha Churna; Amritarishta
+Bronchial Asthma,child,male,medium,Punarnavadi Kwath; Yashtimadhu; Guduchi Satva; Abhrak Bhasma; Manjishtha Churna
+Bronchial Asthma,child,male,high,Nimbadi Kwath; Abhrak Bhasma; Lasunadi Vati; Guduchi Satva; Haridra Khanda
+Bronchial Asthma,child,female,low,Lasunadi Vati; Manjishtha Churna; Arogyavardhini Vati; Nishamalaki Churna; Nimbadi Kwath
+Bronchial Asthma,child,female,medium,Shatavari Kalpa; Haridra Khanda; Manjishtha Churna; Abhrak Bhasma; Maha Sudarshan Churna
+Bronchial Asthma,child,female,high,Amritarishta; Ashwagandha Churna; Nimbadi Kwath; Nishamalaki Churna; Shatavari Kalpa
+Bronchial Asthma,adult,male,low,Sitopaladi Churna; Maha Sudarshan Churna; Nishamalaki Churna; Lasunadi Vati; Shatavari Kalpa
+Bronchial Asthma,adult,male,medium,Shatavari Kalpa; Sitopaladi Churna; Arogyavardhini Vati; Triphala Churna; Lasunadi Vati
+Bronchial Asthma,adult,male,high,Abhrak Bhasma; Chandraprabha Vati; Ashwagandha Churna; Shatavari Kalpa; Nishamalaki Churna
+Bronchial Asthma,adult,female,low,Lasunadi Vati; Sitopaladi Churna; Punarnavadi Kwath; Ashwagandha Churna; Triphala Churna
+Bronchial Asthma,adult,female,medium,Chandraprabha Vati; Khadirarishta; Nimbadi Kwath; Amritarishta; Shatavari Kalpa
+Bronchial Asthma,adult,female,high,Chandraprabha Vati; Maha Sudarshan Churna; Triphala Churna; Nimbadi Kwath; Punarnavadi Kwath
+Bronchial Asthma,elderly,male,low,Haridra Khanda; Manjishtha Churna; Shatavari Kalpa; Guduchi Satva; Sitopaladi Churna
+Bronchial Asthma,elderly,male,medium,Lasunadi Vati; Triphala Churna; Haridra Khanda; Maha Sudarshan Churna; Nishamalaki Churna
+Bronchial Asthma,elderly,male,high,Nimbadi Kwath; Nishamalaki Churna; Chandraprabha Vati; Shatavari Kalpa; Manjishtha Churna
+Bronchial Asthma,elderly,female,low,Abhrak Bhasma; Lasunadi Vati; Nishamalaki Churna; Shatavari Kalpa; Nimbadi Kwath
+Bronchial Asthma,elderly,female,medium,Triphala Churna; Ashwagandha Churna; Shatavari Kalpa; Nimbadi Kwath; Guduchi Satva
+Bronchial Asthma,elderly,female,high,Lasunadi Vati; Triphala Churna; Nishamalaki Churna; Abhrak Bhasma; Manjishtha Churna
+Hypertension,child,male,low,Guduchi Satva; Shatavari Kalpa; Abhrak Bhasma; Haridra Khanda; Maha Sudarshan Churna
+Hypertension,child,male,medium,Triphala Churna; Khadirarishta; Sitopaladi Churna; Maha Sudarshan Churna; Yashtimadhu
+Hypertension,child,male,high,Khadirarishta; Haridra Khanda; Triphala Churna; Abhrak Bhasma; Yashtimadhu
+Hypertension,child,female,low,Abhrak Bhasma; Sitopaladi Churna; Khadirarishta; Guduchi Satva; Amritarishta
+Hypertension,child,female,medium,Lasunadi Vati; Abhrak Bhasma; Haridra Khanda; Nishamalaki Churna; Sitopaladi Churna
+Hypertension,child,female,high,Haridra Khanda; Triphala Churna; Amritarishta; Chandraprabha Vati; Sitopaladi Churna
+Hypertension,adult,male,low,Punarnavadi Kwath; Shatavari Kalpa; Maha Sudarshan Churna; Triphala Churna; Arogyavardhini Vati
+Hypertension,adult,male,medium,Haridra Khanda; Khadirarishta; Lasunadi Vati; Punarnavadi Kwath; Guduchi Satva
+Hypertension,adult,male,high,Amritarishta; Triphala Churna; Shatavari Kalpa; Lasunadi Vati; Arogyavardhini Vati
+Hypertension,adult,female,low,Ashwagandha Churna; Triphala Churna; Guduchi Satva; Haridra Khanda; Shatavari Kalpa
+Hypertension,adult,female,medium,Arogyavardhini Vati; Abhrak Bhasma; Amritarishta; Nishamalaki Churna; Shatavari Kalpa
+Hypertension,adult,female,high,Khadirarishta; Nishamalaki Churna; Haridra Khanda; Yashtimadhu; Abhrak Bhasma
+Hypertension,elderly,male,low,Sitopaladi Churna; Shatavari Kalpa; Manjishtha Churna; Nishamalaki Churna; Nimbadi Kwath
+Hypertension,elderly,male,medium,Manjishtha Churna; Lasunadi Vati; Triphala Churna; Guduchi Satva; Chandraprabha Vati
+Hypertension,elderly,male,high,Haridra Khanda; Shatavari Kalpa; Maha Sudarshan Churna; Guduchi Satva; Triphala Churna
+Hypertension,elderly,female,low,Manjishtha Churna; Ashwagandha Churna; Triphala Churna; Nishamalaki Churna; Lasunadi Vati
+Hypertension,elderly,female,medium,Nishamalaki Churna; Lasunadi Vati; Haridra Khanda; Ashwagandha Churna; Yashtimadhu
+Hypertension,elderly,female,high,Lasunadi Vati; Shatavari Kalpa; Triphala Churna; Khadirarishta; Haridra Khanda
+Migraine,child,male,low,Nishamalaki Churna; Nimbadi Kwath; Khadirarishta; Amritarishta; Triphala Churna
+Migraine,child,male,medium,Manjishtha Churna; Yashtimadhu; Abhrak Bhasma; Triphala Churna; Ashwagandha Churna
+Migraine,child,male,high,Sitopaladi Churna; Haridra Khanda; Khadirarishta; Amritarishta; Ashwagandha Churna
+Migraine,child,female,low,Sitopaladi Churna; Lasunadi Vati; Manjishtha Churna; Guduchi Satva; Maha Sudarshan Churna
+Migraine,child,female,medium,Triphala Churna; Abhrak Bhasma; Guduchi Satva; Shatavari Kalpa; Sitopaladi Churna
+Migraine,child,female,high,Amritarishta; Maha Sudarshan Churna; Ashwagandha Churna; Sitopaladi Churna; Lasunadi Vati
+Migraine,adult,male,low,Maha Sudarshan Churna; Khadirarishta; Triphala Churna; Haridra Khanda; Guduchi Satva
+Migraine,adult,male,medium,Nimbadi Kwath; Arogyavardhini Vati; Abhrak Bhasma; Shatavari Kalpa; Yashtimadhu
+Migraine,adult,male,high,Nimbadi Kwath; Manjishtha Churna; Yashtimadhu; Guduchi Satva; Maha Sudarshan Churna
+Migraine,adult,female,low,Nimbadi Kwath; Yashtimadhu; Manjishtha Churna; Chandraprabha Vati; Haridra Khanda
+Migraine,adult,female,medium,Triphala Churna; Ashwagandha Churna; Haridra Khanda; Punarnavadi Kwath; Maha Sudarshan Churna
+Migraine,adult,female,high,Khadirarishta; Arogyavardhini Vati; Nishamalaki Churna; Chandraprabha Vati; Maha Sudarshan Churna
+Migraine,elderly,male,low,Guduchi Satva; Manjishtha Churna; Abhrak Bhasma; Yashtimadhu; Lasunadi Vati
+Migraine,elderly,male,medium,Ashwagandha Churna; Shatavari Kalpa; Arogyavardhini Vati; Punarnavadi Kwath; Nishamalaki Churna
+Migraine,elderly,male,high,Arogyavardhini Vati; Yashtimadhu; Guduchi Satva; Shatavari Kalpa; Manjishtha Churna
+Migraine,elderly,female,low,Haridra Khanda; Manjishtha Churna; Nishamalaki Churna; Yashtimadhu; Ashwagandha Churna
+Migraine,elderly,female,medium,Guduchi Satva; Manjishtha Churna; Ashwagandha Churna; Arogyavardhini Vati; Amritarishta
+Migraine,elderly,female,high,Maha Sudarshan Churna; Manjishtha Churna; Sitopaladi Churna; Haridra Khanda; Nimbadi Kwath
+Cervical spondylosis,child,male,low,Triphala Churna; Abhrak Bhasma; Maha Sudarshan Churna; Sitopaladi Churna; Ashwagandha Churna
+Cervical spondylosis,child,male,medium,Abhrak Bhasma; Sitopaladi Churna; Chandraprabha Vati; Arogyavardhini Vati; Haridra Khanda
+Cervical spondylosis,child,male,high,Khadirarishta; Guduchi Satva; Lasunadi Vati; Ashwagandha Churna; Nimbadi Kwath
+Cervical spondylosis,child,female,low,Chandraprabha Vati; Khadirarishta; Triphala Churna; Punarnavadi Kwath; Lasunadi Vati
+Cervical spondylosis,child,female,medium,Ashwagandha Churna; Manjishtha Churna; Punarnavadi Kwath; Chandraprabha Vati; Haridra Khanda
+Cervical spondylosis,child,female,high,Nimbadi Kwath; Arogyavardhini Vati; Sitopaladi Churna; Triphala Churna; Amritarishta
+Cervical spondylosis,adult,male,low,Ashwagandha Churna; Nimbadi Kwath; Manjishtha Churna; Haridra Khanda; Chandraprabha Vati
+Cervical spondylosis,adult,male,medium,Amritarishta; Guduchi Satva; Nishamalaki Churna; Yashtimadhu; Haridra Khanda
+Cervical spondylosis,adult,male,high,Maha Sudarshan Churna; Yashtimadhu; Chandraprabha Vati; Nishamalaki Churna; Lasunadi Vati
+Cervical spondylosis,adult,female,low,Punarnavadi Kwath; Arogyavardhini Vati; Khadirarishta; Sitopaladi Churna; Nishamalaki Churna
+Cervical spondylosis,adult,female,medium,Ashwagandha Churna; Khadirarishta; Maha Sudarshan Churna; Shatavari Kalpa; Amritarishta
+Cervical spondylosis,adult,female,high,Punarnavadi Kwath; Sitopaladi Churna; Khadirarishta; Maha Sudarshan Churna; Nishamalaki Churna
+Cervical spondylosis,elderly,male,low,Haridra Khanda; Arogyavardhini Vati; Ashwagandha Churna; Manjishtha Churna; Khadirarishta
+Cervical spondylosis,elderly,male,medium,Chandraprabha Vati; Abhrak Bhasma; Arogyavardhini Vati; Lasunadi Vati; Maha Sudarshan Churna
+Cervical spondylosis,elderly,male,high,Maha Sudarshan Churna; Yashtimadhu; Nimbadi Kwath; Amritarishta; Shatavari Kalpa
+Cervical spondylosis,elderly,female,low,Punarnavadi Kwath; Nimbadi Kwath; Amritarishta; Chandraprabha Vati; Shatavari Kalpa
+Cervical spondylosis,elderly,female,medium,Abhrak Bhasma; Triphala Churna; Lasunadi Vati; Manjishtha Churna; Punarnavadi Kwath
+Cervical spondylosis,elderly,female,high,Nishamalaki Churna; Arogyavardhini Vati; Guduchi Satva; Yashtimadhu; Haridra Khanda
+Paralysis (brain hemorrhage),child,male,low,Shatavari Kalpa; Haridra Khanda; Nishamalaki Churna; Chandraprabha Vati; Nimbadi Kwath
+Paralysis (brain hemorrhage),child,male,medium,Arogyavardhini Vati; Nishamalaki Churna; Triphala Churna; Lasunadi Vati; Abhrak Bhasma
+Paralysis (brain hemorrhage),child,male,high,Guduchi Satva; Yashtimadhu; Amritarishta; Khadirarishta; Punarnavadi Kwath
+Paralysis (brain hemorrhage),child,female,low,Triphala Churna; Lasunadi Vati; Yashtimadhu; Nimbadi Kwath; Shatavari Kalpa
+Paralysis (brain hemorrhage),child,female,medium,Shatavari Kalpa; Punarnavadi Kwath; Yashtimadhu; Sitopaladi Churna; Nishamalaki Churna
+Paralysis (brain hemorrhage),child,female,high,Guduchi Satva; Khadirarishta; Manjishtha Churna; Ashwagandha Churna; Haridra Khanda
+Paralysis (brain hemorrhage),adult,male,low,Arogyavardhini Vati; Maha Sudarshan Churna; Yashtimadhu; Guduchi Satva; Abhrak Bhasma
+Paralysis (brain hemorrhage),adult,male,medium,Haridra Khanda; Sitopaladi Churna; Manjishtha Churna; Maha Sudarshan Churna; Punarnavadi Kwath
+Paralysis (brain hemorrhage),adult,male,high,Maha Sudarshan Churna; Khadirarishta; Manjishtha Churna; Shatavari Kalpa; Triphala Churna
+Paralysis (brain hemorrhage),adult,female,low,Maha Sudarshan Churna; Nishamalaki Churna; Chandraprabha Vati; Nimbadi Kwath; Triphala Churna
+Paralysis (brain hemorrhage),adult,female,medium,Lasunadi Vati; Abhrak Bhasma; Arogyavardhini Vati; Sitopaladi Churna; Amritarishta
+Paralysis (brain hemorrhage),adult,female,high,Lasunadi Vati; Shatavari Kalpa; Nimbadi Kwath; Punarnavadi Kwath; Triphala Churna
+Paralysis (brain hemorrhage),elderly,male,low,Sitopaladi Churna; Nishamalaki Churna; Triphala Churna; Haridra Khanda; Yashtimadhu
+Paralysis (brain hemorrhage),elderly,male,medium,Manjishtha Churna; Punarnavadi Kwath; Ashwagandha Churna; Amritarishta; Lasunadi Vati
+Paralysis (brain hemorrhage),elderly,male,high,Chandraprabha Vati; Nishamalaki Churna; Lasunadi Vati; Yashtimadhu; Arogyavardhini Vati
+Paralysis (brain hemorrhage),elderly,female,low,Nishamalaki Churna; Abhrak Bhasma; Nimbadi Kwath; Haridra Khanda; Ashwagandha Churna
+Paralysis (brain hemorrhage),elderly,female,medium,Manjishtha Churna; Haridra Khanda; Khadirarishta; Sitopaladi Churna; Lasunadi Vati
+Paralysis (brain hemorrhage),elderly,female,high,Manjishtha Churna; Punarnavadi Kwath; Ashwagandha Churna; Arogyavardhini Vati; Khadirarishta
+Jaundice,child,male,low,Maha Sudarshan Churna; Ashwagandha Churna; Abhrak Bhasma; Nimbadi Kwath; Triphala Churna
+Jaundice,child,male,medium,Triphala Churna; Arogyavardhini Vati; Khadirarishta; Yashtimadhu; Haridra Khanda
+Jaundice,child,male,high,Abhrak Bhasma; Punarnavadi Kwath; Sitopaladi Churna; Triphala Churna; Chandraprabha Vati
+Jaundice,child,female,low,Haridra Khanda; Chandraprabha Vati; Guduchi Satva; Triphala Churna; Nishamalaki Churna
+Jaundice,child,female,medium,Amritarishta; Lasunadi Vati; Sitopaladi Churna; Khadirarishta; Guduchi Satva
+Jaundice,child,female,high,Ashwagandha Churna; Triphala Churna; Nishamalaki Churna; Chandraprabha Vati; Arogyavardhini Vati
+Jaundice,adult,male,low,Yashtimadhu; Abhrak Bhasma; Triphala Churna; Sitopaladi Churna; Punarnavadi Kwath
+Jaundice,adult,male,medium,Amritarishta; Arogyavardhini Vati; Maha Sudarshan Churna; Haridra Khanda; Abhrak Bhasma
+Jaundice,adult,male,high,Yashtimadhu; Arogyavardhini Vati; Guduchi Satva; Chandraprabha Vati; Khadirarishta
+Jaundice,adult,female,low,Triphala Churna; Arogyavardhini Vati; Punarnavadi Kwath; Ashwagandha Churna; Nimbadi Kwath
+Jaundice,adult,female,medium,Shatavari Kalpa; Chandraprabha Vati; Punarnavadi Kwath; Khadirarishta; Guduchi Satva
+Jaundice,adult,female,high,Haridra Khanda; Khadirarishta; Nishamalaki Churna; Manjishtha Churna; Shatavari Kalpa
+Jaundice,elderly,male,low,Guduchi Satva; Shatavari Kalpa; Punarnavadi Kwath; Lasunadi Vati; Khadirarishta
+Jaundice,elderly,male,medium,Maha Sudarshan Churna; Triphala Churna; Khadirarishta; Arogyavardhini Vati; Yashtimadhu
+Jaundice,elderly,male,high,Lasunadi Vati; Haridra Khanda; Amritarishta; Chandraprabha Vati; Triphala Churna
+Jaundice,elderly,female,low,Chandraprabha Vati; Manjishtha Churna; Nishamalaki Churna; Arogyavardhini Vati; Triphala Churna
+Jaundice,elderly,female,medium,Chandraprabha Vati; Nishamalaki Churna; Manjishtha Churna; Maha Sudarshan Churna; Guduchi Satva
+Jaundice,elderly,female,high,Shatavari Kalpa; Ashwagandha Churna; Maha Sudarshan Churna; Sitopaladi Churna; Triphala Churna
+Malaria,child,male,low,Nishamalaki Churna; Guduchi Satva; Haridra Khanda; Nimbadi Kwath; Ashwagandha Churna
+Malaria,child,male,medium,Manjishtha Churna; Chandraprabha Vati; Haridra Khanda; Arogyavardhini Vati; Sitopaladi Churna
+Malaria,child,male,high,Khadirarishta; Ashwagandha Churna; Punarnavadi Kwath; Triphala Churna; Arogyavardhini Vati
+Malaria,child,female,low,Punarnavadi Kwath; Haridra Khanda; Sitopaladi Churna; Lasunadi Vati; Guduchi Satva
+Malaria,child,female,medium,Chandraprabha Vati; Lasunadi Vati; Nimbadi Kwath; Ashwagandha Churna; Shatavari Kalpa
+Malaria,child,female,high,Shatavari Kalpa; Punarnavadi Kwath; Arogyavardhini Vati; Sitopaladi Churna; Amritarishta
+Malaria,adult,male,low,Yashtimadhu; Ashwagandha Churna; Maha Sudarshan Churna; Shatavari Kalpa; Nimbadi Kwath
+Malaria,adult,male,medium,Triphala Churna; Manjishtha Churna; Punarnavadi Kwath; Abhrak Bhasma; Chandraprabha Vati
+Malaria,adult,male,high,Chandraprabha Vati; Nimbadi Kwath; Guduchi Satva; Ashwagandha Churna; Lasunadi Vati
+Malaria,adult,female,low,Khadirarishta; Chandraprabha Vati; Triphala Churna; Punarnavadi Kwath; Arogyavardhini Vati
+Malaria,adult,female,medium,Amritarishta; Ashwagandha Churna; Punarnavadi Kwath; Sitopaladi Churna; Maha Sudarshan Churna
+Malaria,adult,female,high,Arogyavardhini Vati; Guduchi Satva; Chandraprabha Vati; Haridra Khanda; Triphala Churna
+Malaria,elderly,male,low,Chandraprabha Vati; Nishamalaki Churna; Nimbadi Kwath; Lasunadi Vati; Sitopaladi Churna
+Malaria,elderly,male,medium,Nimbadi Kwath; Abhrak Bhasma; Punarnavadi Kwath; Ashwagandha Churna; Sitopaladi Churna
+Malaria,elderly,male,high,Nimbadi Kwath; Ashwagandha Churna; Sitopaladi Churna; Khadirarishta; Shatavari Kalpa
+Malaria,elderly,female,low,Chandraprabha Vati; Maha Sudarshan Churna; Yashtimadhu; Manjishtha Churna; Triphala Churna
+Malaria,elderly,female,medium,Triphala Churna; Nimbadi Kwath; Shatavari Kalpa; Haridra Khanda; Guduchi Satva
+Malaria,elderly,female,high,Shatavari Kalpa; Sitopaladi Churna; Punarnavadi Kwath; Abhrak Bhasma; Nishamalaki Churna
+Chicken pox,child,male,low,Abhrak Bhasma; Amritarishta; Maha Sudarshan Churna; Chandraprabha Vati; Nishamalaki Churna
+Chicken pox,child,male,medium,Arogyavardhini Vati; Guduchi Satva; Nishamalaki Churna; Abhrak Bhasma; Triphala Churna
+Chicken pox,child,male,high,Maha Sudarshan Churna; Abhrak Bhasma; Lasunadi Vati; Nishamalaki Churna; Sitopaladi Churna
+Chicken pox,child,female,low,Arogyavardhini Vati; Haridra Khanda; Manjishtha Churna; Abhrak Bhasma; Lasunadi Vati
+Chicken pox,child,female,medium,Ashwagandha Churna; Manjishtha Churna; Nishamalaki Churna; Amritarishta; Abhrak Bhasma
+Chicken pox,child,female,high,Khadirarishta; Haridra Khanda; Lasunadi Vati; Arogyavardhini Vati; Chandraprabha Vati
+Chicken pox,adult,male,low,Abhrak Bhasma; Maha Sudarshan Churna; Triphala Churna; Nimbadi Kwath; Guduchi Satva
+Chicken pox,adult,male,medium,Lasunadi Vati; Sitopaladi Churna; Arogyavardhini Vati; Amritarishta; Yashtimadhu
+Chicken pox,adult,male,high,Abhrak Bhasma; Khadirarishta; Haridra Khanda; Punarnavadi Kwath; Chandraprabha Vati
+Chicken pox,adult,female,low,Ashwagandha Churna; Abhrak Bhasma; Guduchi Satva; Maha Sudarshan Churna; Haridra Khanda
+Chicken pox,adult,female,medium,Amritarishta; Khadirarishta; Nimbadi Kwath; Yashtimadhu; Ashwagandha Churna
+Chicken pox,adult,female,high,Sitopaladi Churna; Nishamalaki Churna; Yashtimadhu; Abhrak Bhasma; Lasunadi Vati
+Chicken pox,elderly,male,low,Lasunadi Vati; Haridra Khanda; Triphala Churna; Guduchi Satva; Abhrak Bhasma
+Chicken pox,elderly,male,medium,Triphala Churna; Manjishtha Churna; Sitopaladi Churna; Ashwagandha Churna; Khadirarishta
+Chicken pox,elderly,male,high,Nimbadi Kwath; Punarnavadi Kwath; Nishamalaki Churna; Ashwagandha Churna; Guduchi Satva
+Chicken pox,elderly,female,low,Lasunadi Vati; Shatavari Kalpa; Arogyavardhini Vati; Punarnavadi Kwath; Maha Sudarshan Churna
+Chicken pox,elderly,female,medium,Ashwagandha Churna; Nishamalaki Churna; Nimbadi Kwath; Chandraprabha Vati; Arogyavardhini Vati
+Chicken pox,elderly,female,high,Haridra Khanda; Guduchi Satva; Nimbadi Kwath; Ashwagandha Churna; Chandraprabha Vati
+Dengue,child,male,low,Ashwagandha Churna; Triphala Churna; Khadirarishta; Arogyavardhini Vati; Guduchi Satva
+Dengue,child,male,medium,Guduchi Satva; Manjishtha Churna; Nishamalaki Churna; Chandraprabha Vati; Shatavari Kalpa
+Dengue,child,male,high,Khadirarishta; Ashwagandha Churna; Maha Sudarshan Churna; Triphala Churna; Nishamalaki Churna
+Dengue,child,female,low,Khadirarishta; Guduchi Satva; Abhrak Bhasma; Manjishtha Churna; Triphala Churna
+Dengue,child,female,medium,Chandraprabha Vati; Punarnavadi Kwath; Sitopaladi Churna; Maha Sudarshan Churna; Nimbadi Kwath
+Dengue,child,female,high,Triphala Churna; Ashwagandha Churna; Khadirarishta; Sitopaladi Churna; Nishamalaki Churna
+Dengue,adult,male,low,Nimbadi Kwath; Chandraprabha Vati; Guduchi Satva; Triphala Churna; Haridra Khanda
+Dengue,adult,male,medium,Amritarishta; Abhrak Bhasma; Lasunadi Vati; Arogyavardhini Vati; Chandraprabha Vati
+Dengue,adult,male,high,Punarnavadi Kwath; Abhrak Bhasma; Amritarishta; Maha Sudarshan Churna; Nimbadi Kwath
+Dengue,adult,female,low,Guduchi Satva; Arogyavardhini Vati; Manjishtha Churna; Abhrak Bhasma; Ashwagandha Churna
+Dengue,adult,female,medium,Chandraprabha Vati; Arogyavardhini Vati; Triphala Churna; Khadirarishta; Punarnavadi Kwath
+Dengue,adult,female,high,Triphala Churna; Guduchi Satva; Ashwagandha Churna; Punarnavadi Kwath; Chandraprabha Vati
+Dengue,elderly,male,low,Guduchi Satva; Ashwagandha Churna; Manjishtha Churna; Nishamalaki Churna; Khadirarishta
+Dengue,elderly,male,medium,Haridra Khanda; Guduchi Satva; Triphala Churna; Punarnavadi Kwath; Lasunadi Vati
+Dengue,elderly,male,high,Arogyavardhini Vati; Abhrak Bhasma; Nimbadi Kwath; Yashtimadhu; Sitopaladi Churna
+Dengue,elderly,female,low,Abhrak Bhasma; Nishamalaki Churna; Nimbadi Kwath; Chandraprabha Vati; Khadirarishta
+Dengue,elderly,female,medium,Abhrak Bhasma; Arogyavardhini Vati; Nimbadi Kwath; Haridra Khanda; Punarnavadi Kwath
+Dengue,elderly,female,high,Nimbadi Kwath; Yashtimadhu; Abhrak Bhasma; Haridra Khanda; Nishamalaki Churna
+Typhoid,child,male,low,Abhrak Bhasma; Amritarishta; Sitopaladi Churna; Maha Sudarshan Churna; Chandraprabha Vati
+Typhoid,child,male,medium,Amritarishta; Maha Sudarshan Churna; Haridra Khanda; Shatavari Kalpa; Manjishtha Churna
+Typhoid,child,male,high,Amritarishta; Yashtimadhu; Nimbadi Kwath; Sitopaladi Churna; Manjishtha Churna
+Typhoid,child,female,low,Nishamalaki Churna; Triphala Churna; Abhrak Bhasma; Khadirarishta; Sitopaladi Churna
+Typhoid,child,female,medium,Haridra Khanda; Manjishtha Churna; Nimbadi Kwath; Maha Sudarshan Churna; Abhrak Bhasma
+Typhoid,child,female,high,Lasunadi Vati; Manjishtha Churna; Guduchi Satva; Haridra Khanda; Ashwagandha Churna
+Typhoid,adult,male,low,Haridra Khanda; Nimbadi Kwath; Chandraprabha Vati; Sitopaladi Churna; Manjishtha Churna
+Typhoid,adult,male,medium,Nimbadi Kwath; Punarnavadi Kwath; Haridra Khanda; Guduchi Satva; Amritarishta
+Typhoid,adult,male,high,Manjishtha Churna; Shatavari Kalpa; Maha Sudarshan Churna; Ashwagandha Churna; Arogyavardhini Vati
+Typhoid,adult,female,low,Triphala Churna; Amritarishta; Yashtimadhu; Shatavari Kalpa; Maha Sudarshan Churna
+Typhoid,adult,female,medium,Nishamalaki Churna; Sitopaladi Churna; Abhrak Bhasma; Punarnavadi Kwath; Yashtimadhu
+Typhoid,adult,female,high,Shatavari Kalpa; Guduchi Satva; Nishamalaki Churna; Yashtimadhu; Chandraprabha Vati
+Typhoid,elderly,male,low,Chandraprabha Vati; Maha Sudarshan Churna; Arogyavardhini Vati; Manjishtha Churna; Nimbadi Kwath
+Typhoid,elderly,male,medium,Punarnavadi Kwath; Nimbadi Kwath; Maha Sudarshan Churna; Khadirarishta; Lasunadi Vati
+Typhoid,elderly,male,high,Khadirarishta; Maha Sudarshan Churna; Ashwagandha Churna; Haridra Khanda; Amritarishta
+Typhoid,elderly,female,low,Punarnavadi Kwath; Shatavari Kalpa; Nimbadi Kwath; Abhrak Bhasma; Khadirarishta
+Typhoid,elderly,female,medium,Nishamalaki Churna; Manjishtha Churna; Lasunadi Vati; Maha Sudarshan Churna; Triphala Churna
+Typhoid,elderly,female,high,Lasunadi Vati; Shatavari Kalpa; Haridra Khanda; Abhrak Bhasma; Punarnavadi Kwath
+hepatitis A,child,male,low,Maha Sudarshan Churna; Amritarishta; Ashwagandha Churna; Arogyavardhini Vati; Nishamalaki Churna
+hepatitis A,child,male,medium,Guduchi Satva; Shatavari Kalpa; Sitopaladi Churna; Yashtimadhu; Abhrak Bhasma
+hepatitis A,child,male,high,Arogyavardhini Vati; Yashtimadhu; Shatavari Kalpa; Haridra Khanda; Ashwagandha Churna
+hepatitis A,child,female,low,Amritarishta; Shatavari Kalpa; Manjishtha Churna; Haridra Khanda; Arogyavardhini Vati
+hepatitis A,child,female,medium,Triphala Churna; Abhrak Bhasma; Yashtimadhu; Shatavari Kalpa; Arogyavardhini Vati
+hepatitis A,child,female,high,Abhrak Bhasma; Manjishtha Churna; Arogyavardhini Vati; Nishamalaki Churna; Maha Sudarshan Churna
+hepatitis A,adult,male,low,Nimbadi Kwath; Manjishtha Churna; Sitopaladi Churna; Ashwagandha Churna; Shatavari Kalpa
+hepatitis A,adult,male,medium,Maha Sudarshan Churna; Haridra Khanda; Shatavari Kalpa; Khadirarishta; Sitopaladi Churna
+hepatitis A,adult,male,high,Arogyavardhini Vati; Triphala Churna; Khadirarishta; Abhrak Bhasma; Sitopaladi Churna
+hepatitis A,adult,female,low,Maha Sudarshan Churna; Ashwagandha Churna; Arogyavardhini Vati; Guduchi Satva; Abhrak Bhasma
+hepatitis A,adult,female,medium,Abhrak Bhasma; Lasunadi Vati; Punarnavadi Kwath; Haridra Khanda; Sitopaladi Churna
+hepatitis A,adult,female,high,Chandraprabha Vati; Amritarishta; Guduchi Satva; Yashtimadhu; Khadirarishta
+hepatitis A,elderly,male,low,Arogyavardhini Vati; Manjishtha Churna; Punarnavadi Kwath; Amritarishta; Abhrak Bhasma
+hepatitis A,elderly,male,medium,Maha Sudarshan Churna; Amritarishta; Chandraprabha Vati; Abhrak Bhasma; Punarnavadi Kwath
+hepatitis A,elderly,male,high,Nimbadi Kwath; Punarnavadi Kwath; Abhrak Bhasma; Triphala Churna; Manjishtha Churna
+hepatitis A,elderly,female,low,Lasunadi Vati; Shatavari Kalpa; Arogyavardhini Vati; Maha Sudarshan Churna; Chandraprabha Vati
+hepatitis A,elderly,female,medium,Amritarishta; Punarnavadi Kwath; Khadirarishta; Chandraprabha Vati; Triphala Churna
+hepatitis A,elderly,female,high,Ashwagandha Churna; Arogyavardhini Vati; Nimbadi Kwath; Maha Sudarshan Churna; Haridra Khanda
+Hepatitis B,child,male,low,Shatavari Kalpa; Amritarishta; Nishamalaki Churna; Ashwagandha Churna; Lasunadi Vati
+Hepatitis B,child,male,medium,Haridra Khanda; Yashtimadhu; Abhrak Bhasma; Amritarishta; Ashwagandha Churna
+Hepatitis B,child,male,high,Lasunadi Vati; Yashtimadhu; Maha Sudarshan Churna; Guduchi Satva; Chandraprabha Vati
+Hepatitis B,child,female,low,Manjishtha Churna; Punarnavadi Kwath; Haridra Khanda; Triphala Churna; Sitopaladi Churna
+Hepatitis B,child,female,medium,Arogyavardhini Vati; Nishamalaki Churna; Lasunadi Vati; Guduchi Satva; Shatavari Kalpa
+Hepatitis B,child,female,high,Khadirarishta; Punarnavadi Kwath; Lasunadi Vati; Shatavari Kalpa; Chandraprabha Vati
+Hepatitis B,adult,male,low,Arogyavardhini Vati; Shatavari Kalpa; Yashtimadhu; Lasunadi Vati; Ashwagandha Churna
+Hepatitis B,adult,male,medium,Sitopaladi Churna; Maha Sudarshan Churna; Triphala Churna; Abhrak Bhasma; Nishamalaki Churna
+Hepatitis B,adult,male,high,Nimbadi Kwath; Abhrak Bhasma; Nishamalaki Churna; Khadirarishta; Chandraprabha Vati
+Hepatitis B,adult,female,low,Nimbadi Kwath; Khadirarishta; Haridra Khanda; Abhrak Bhasma; Guduchi Satva
+Hepatitis B,adult,female,medium,Yashtimadhu; Nishamalaki Churna; Sitopaladi Churna; Lasunadi Vati; Khadirarishta
+Hepatitis B,adult,female,high,Shatavari Kalpa; Amritarishta; Guduchi Satva; Nimbadi Kwath; Lasunadi Vati
+Hepatitis B,elderly,male,low,Manjishtha Churna; Lasunadi Vati; Maha Sudarshan Churna; Amritarishta; Haridra Khanda
+Hepatitis B,elderly,male,medium,Nishamalaki Churna; Maha Sudarshan Churna; Chandraprabha Vati; Lasunadi Vati; Nimbadi Kwath
+Hepatitis B,elderly,male,high,Sitopaladi Churna; Maha Sudarshan Churna; Nimbadi Kwath; Punarnavadi Kwath; Nishamalaki Churna
+Hepatitis B,elderly,female,low,Abhrak Bhasma; Sitopaladi Churna; Ashwagandha Churna; Punarnavadi Kwath; Guduchi Satva
+Hepatitis B,elderly,female,medium,Haridra Khanda; Triphala Churna; Punarnavadi Kwath; Guduchi Satva; Khadirarishta
+Hepatitis B,elderly,female,high,Shatavari Kalpa; Nimbadi Kwath; Triphala Churna; Amritarishta; Arogyavardhini Vati
+Hepatitis C,child,male,low,Maha Sudarshan Churna; Abhrak Bhasma; Yashtimadhu; Nishamalaki Churna; Amritarishta
+Hepatitis C,child,male,medium,Abhrak Bhasma; Nishamalaki Churna; Chandraprabha Vati; Guduchi Satva; Arogyavardhini Vati
+Hepatitis C,child,male,high,Nimbadi Kwath; Triphala Churna; Arogyavardhini Vati; Yashtimadhu; Nishamalaki Churna
+Hepatitis C,child,female,low,Amritarishta; Guduchi Satva; Shatavari Kalpa; Abhrak Bhasma; Khadirarishta
+Hepatitis C,child,female,medium,Chandraprabha Vati; Yashtimadhu; Punarnavadi Kwath; Haridra Khanda; Khadirarishta
+Hepatitis C,child,female,high,Punarnavadi Kwath; Manjishtha Churna; Nishamalaki Churna; Abhrak Bhasma; Lasunadi Vati
+Hepatitis C,adult,male,low,Haridra Khanda; Nimbadi Kwath; Khadirarishta; Punarnavadi Kwath; Amritarishta
+Hepatitis C,adult,male,medium,Maha Sudarshan Churna; Abhrak Bhasma; Sitopaladi Churna; Nimbadi Kwath; Haridra Khanda
+Hepatitis C,adult,male,high,Guduchi Satva; Sitopaladi Churna; Arogyavardhini Vati; Haridra Khanda; Abhrak Bhasma
+Hepatitis C,adult,female,low,Nimbadi Kwath; Manjishtha Churna; Guduchi Satva; Sitopaladi Churna; Haridra Khanda
+Hepatitis C,adult,female,medium,Nimbadi Kwath; Triphala Churna; Maha Sudarshan Churna; Yashtimadhu; Abhrak Bhasma
+Hepatitis C,adult,female,high,Chandraprabha Vati; Punarnavadi Kwath; Nimbadi Kwath; Manjishtha Churna; Guduchi Satva
+Hepatitis C,elderly,male,low,Abhrak Bhasma; Sitopaladi Churna; Haridra Khanda; Ashwagandha Churna; Amritarishta
+Hepatitis C,elderly,male,medium,Yashtimadhu; Arogyavardhini Vati; Nimbadi Kwath; Amritarishta; Punarnavadi Kwath
+Hepatitis C,elderly,male,high,Nimbadi Kwath; Ashwagandha Churna; Chandraprabha Vati; Arogyavardhini Vati; Sitopaladi Churna
+Hepatitis C,elderly,female,low,Abhrak Bhasma; Lasunadi Vati; Nishamalaki Churna; Maha Sudarshan Churna; Punarnavadi Kwath
+Hepatitis C,elderly,female,medium,Guduchi Satva; Arogyavardhini Vati; Chandraprabha Vati; Maha Sudarshan Churna; Yashtimadhu
+Hepatitis C,elderly,female,high,Lasunadi Vati; Ashwagandha Churna; Triphala Churna; Abhrak Bhasma; Nishamalaki Churna
+Hepatitis D,child,male,low,Nishamalaki Churna; Manjishtha Churna; Yashtimadhu; Nimbadi Kwath; Maha Sudarshan Churna
+Hepatitis D,child,male,medium,Amritarishta; Chandraprabha Vati; Ashwagandha Churna; Haridra Khanda; Maha Sudarshan Churna
+Hepatitis D,child,male,high,Nishamalaki Churna; Chandraprabha Vati; Guduchi Satva; Lasunadi Vati; Shatavari Kalpa
+Hepatitis D,child,female,low,Maha Sudarshan Churna; Triphala Churna; Shatavari Kalpa; Punarnavadi Kwath; Chandraprabha Vati
+Hepatitis D,child,female,medium,Nishamalaki Churna; Nimbadi Kwath; Yashtimadhu; Sitopaladi Churna; Shatavari Kalpa
+Hepatitis D,child,female,high,Arogyavardhini Vati; Triphala Churna; Nishamalaki Churna; Maha Sudarshan Churna; Manjishtha Churna
+Hepatitis D,adult,male,low,Sitopaladi Churna; Nishamalaki Churna; Shatavari Kalpa; Nimbadi Kwath; Haridra Khanda
+Hepatitis D,adult,male,medium,Punarnavadi Kwath; Yashtimadhu; Triphala Churna; Abhrak Bhasma; Lasunadi Vati
+Hepatitis D,adult,male,high,Yashtimadhu; Ashwagandha Churna; Khadirarishta; Amritarishta; Guduchi Satva
+Hepatitis D,adult,female,low,Lasunadi Vati; Manjishtha Churna; Punarnavadi Kwath; Guduchi Satva; Nishamalaki Churna
+Hepatitis D,adult,female,medium,Haridra Khanda; Khadirarishta; Nimbadi Kwath; Sitopaladi Churna; Lasunadi Vati
+Hepatitis D,adult,female,high,Triphala Churna; Guduchi Satva; Shatavari Kalpa; Amritarishta; Haridra Khanda
+Hepatitis D,elderly,male,low,Yashtimadhu; Lasunadi Vati; Sitopaladi Churna; Nimbadi Kwath; Shatavari Kalpa
+Hepatitis D,elderly,male,medium,Abhrak Bhasma; Ashwagandha Churna; Punarnavadi Kwath; Chandraprabha Vati; Guduchi Satva
+Hepatitis D,elderly,male,high,Guduchi Satva; Punarnavadi Kwath; Shatavari Kalpa; Chandraprabha Vati; Arogyavardhini Vati
+Hepatitis D,elderly,female,low,Shatavari Kalpa; Nimbadi Kwath; Lasunadi Vati; Yashtimadhu; Arogyavardhini Vati
+Hepatitis D,elderly,female,medium,Manjishtha Churna; Maha Sudarshan Churna; Nimbadi Kwath; Arogyavardhini Vati; Punarnavadi Kwath
+Hepatitis D,elderly,female,high,Haridra Khanda; Chandraprabha Vati; Manjishtha Churna; Sitopaladi Churna; Nishamalaki Churna
+Hepatitis E,child,male,low,Manjishtha Churna; Punarnavadi Kwath; Maha Sudarshan Churna; Khadirarishta; Sitopaladi Churna
+Hepatitis E,child,male,medium,Khadirarishta; Sitopaladi Churna; Lasunadi Vati; Amritarishta; Haridra Khanda
+Hepatitis E,child,male,high,Lasunadi Vati; Maha Sudarshan Churna; Punarnavadi Kwath; Triphala Churna; Nishamalaki Churna
+Hepatitis E,child,female,low,Lasunadi Vati; Punarnavadi Kwath; Amritarishta; Ashwagandha Churna; Shatavari Kalpa
+Hepatitis E,child,female,medium,Guduchi Satva; Haridra Khanda; Yashtimadhu; Maha Sudarshan Churna; Ashwagandha Churna
+Hepatitis E,child,female,high,Guduchi Satva; Maha Sudarshan Churna; Shatavari Kalpa; Arogyavardhini Vati; Ashwagandha Churna
+Hepatitis E,adult,male,low,Arogyavardhini Vati; Shatavari Kalpa; Amritarishta; Ashwagandha Churna; Manjishtha Churna
+Hepatitis E,adult,male,medium,Maha Sudarshan Churna; Ashwagandha Churna; Abhrak Bhasma; Khadirarishta; Arogyavardhini Vati
+Hepatitis E,adult,male,high,Khadirarishta; Amritarishta; Ashwagandha Churna; Manjishtha Churna; Maha Sudarshan Churna
+Hepatitis E,adult,female,low,Ashwagandha Churna; Arogyavardhini Vati; Nishamalaki Churna; Nimbadi Kwath; Amritarishta
+Hepatitis E,adult,female,medium,Arogyavardhini Vati; Punarnavadi Kwath; Maha Sudarshan Churna; Guduchi Satva; Sitopaladi Churna
+Hepatitis E,adult,female,high,Lasunadi Vati; Punarnavadi Kwath; Arogyavardhini Vati; Yashtimadhu; Triphala Churna
+Hepatitis E,elderly,male,low,Ashwagandha Churna; Chandraprabha Vati; Maha Sudarshan Churna; Amritarishta; Khadirarishta
+Hepatitis E,elderly,male,medium,Shatavari Kalpa; Nimbadi Kwath; Chandraprabha Vati; Khadirarishta; Abhrak Bhasma
+Hepatitis E,elderly,male,high,Sitopaladi Churna; Khadirarishta; Ashwagandha Churna; Shatavari Kalpa; Guduchi Satva
+Hepatitis E,elderly,female,low,Amritarishta; Guduchi Satva; Maha Sudarshan Churna; Punarnavadi Kwath; Haridra Khanda
+Hepatitis E,elderly,female,medium,Khadirarishta; Triphala Churna; Nimbadi Kwath; Chandraprabha Vati; Punarnavadi Kwath
+Hepatitis E,elderly,female,high,Guduchi Satva; Lasunadi Vati; Maha Sudarshan Churna; Manjishtha Churna; Nimbadi Kwath
+Alcoholic hepatitis,child,male,low,Chandraprabha Vati; Maha Sudarshan Churna; Yashtimadhu; Haridra Khanda; Ashwagandha Churna
+Alcoholic hepatitis,child,male,medium,Sitopaladi Churna; Nishamalaki Churna; Amritarishta; Ashwagandha Churna; Chandraprabha Vati
+Alcoholic hepatitis,child,male,high,Shatavari Kalpa; Guduchi Satva; Manjishtha Churna; Yashtimadhu; Arogyavardhini Vati
+Alcoholic hepatitis,child,female,low,Arogyavardhini Vati; Manjishtha Churna; Yashtimadhu; Guduchi Satva; Amritarishta
+Alcoholic hepatitis,child,female,medium,Guduchi Satva; Nishamalaki Churna; Manjishtha Churna; Khadirarishta; Haridra Khanda
+Alcoholic hepatitis,child,female,high,Nishamalaki Churna; Nimbadi Kwath; Arogyavardhini Vati; Yashtimadhu; Lasunadi Vati
+Alcoholic hepatitis,adult,male,low,Manjishtha Churna; Khadirarishta; Amritarishta; Triphala Churna; Punarnavadi Kwath
+Alcoholic hepatitis,adult,male,medium,Abhrak Bhasma; Nimbadi Kwath; Nishamalaki Churna; Arogyavardhini Vati; Yashtimadhu
+Alcoholic hepatitis,adult,male,high,Punarnavadi Kwath; Khadirarishta; Manjishtha Churna; Guduchi Satva; Chandraprabha Vati
+Alcoholic hepatitis,adult,female,low,Nimbadi Kwath; Shatavari Kalpa; Nishamalaki Churna; Guduchi Satva; Punarnavadi Kwath
+Alcoholic hepatitis,adult,female,medium,Lasunadi Vati; Punarnavadi Kwath; Haridra Khanda; Ashwagandha Churna; Khadirarishta
+Alcoholic hepatitis,adult,female,high,Nishamalaki Churna; Ashwagandha Churna; Amritarishta; Lasunadi Vati; Manjishtha Churna
+Alcoholic hepatitis,elderly,male,low,Amritarishta; Nimbadi Kwath; Arogyavardhini Vati; Ashwagandha Churna; Manjishtha Churna
+Alcoholic hepatitis,elderly,male,medium,Lasunadi Vati; Punarnavadi Kwath; Yashtimadhu; Khadirarishta; Haridra Khanda
+Alcoholic hepatitis,elderly,male,high,Arogyavardhini Vati; Guduchi Satva; Manjishtha Churna; Ashwagandha Churna; Nimbadi Kwath
+Alcoholic hepatitis,elderly,female,low,Yashtimadhu; Haridra Khanda; Ashwagandha Churna; Amritarishta; Lasunadi Vati
+Alcoholic hepatitis,elderly,female,medium,Lasunadi Vati; Ashwagandha Churna; Triphala Churna; Haridra Khanda; Yashtimadhu
+Alcoholic hepatitis,elderly,female,high,Ashwagandha Churna; Chandraprabha Vati; Nishamalaki Churna; Guduchi Satva; Haridra Khanda
+Tuberculosis,child,male,low,Guduchi Satva; Nishamalaki Churna; Lasunadi Vati; Haridra Khanda; Sitopaladi Churna
+Tuberculosis,child,male,medium,Khadirarishta; Amritarishta; Nishamalaki Churna; Guduchi Satva; Sitopaladi Churna
+Tuberculosis,child,male,high,Arogyavardhini Vati; Shatavari Kalpa; Triphala Churna; Punarnavadi Kwath; Manjishtha Churna
+Tuberculosis,child,female,low,Maha Sudarshan Churna; Guduchi Satva; Khadirarishta; Sitopaladi Churna; Punarnavadi Kwath
+Tuberculosis,child,female,medium,Punarnavadi Kwath; Arogyavardhini Vati; Abhrak Bhasma; Sitopaladi Churna; Ashwagandha Churna
+Tuberculosis,child,female,high,Lasunadi Vati; Nimbadi Kwath; Ashwagandha Churna; Sitopaladi Churna; Nishamalaki Churna
+Tuberculosis,adult,male,low,Nimbadi Kwath; Manjishtha Churna; Abhrak Bhasma; Nishamalaki Churna; Triphala Churna
+Tuberculosis,adult,male,medium,Sitopaladi Churna; Abhrak Bhasma; Chandraprabha Vati; Punarnavadi Kwath; Arogyavardhini Vati
+Tuberculosis,adult,male,high,Shatavari Kalpa; Nimbadi Kwath; Punarnavadi Kwath; Arogyavardhini Vati; Sitopaladi Churna
+Tuberculosis,adult,female,low,Lasunadi Vati; Maha Sudarshan Churna; Guduchi Satva; Nishamalaki Churna; Shatavari Kalpa
+Tuberculosis,adult,female,medium,Nishamalaki Churna; Nimbadi Kwath; Amritarishta; Abhrak Bhasma; Haridra Khanda
+Tuberculosis,adult,female,high,Sitopaladi Churna; Amritarishta; Chandraprabha Vati; Arogyavardhini Vati; Yashtimadhu
+Tuberculosis,elderly,male,low,Amritarishta; Guduchi Satva; Nimbadi Kwath; Nishamalaki Churna; Punarnavadi Kwath
+Tuberculosis,elderly,male,medium,Arogyavardhini Vati; Triphala Churna; Shatavari Kalpa; Guduchi Satva; Yashtimadhu
+Tuberculosis,elderly,male,high,Nishamalaki Churna; Amritarishta; Triphala Churna; Arogyavardhini Vati; Haridra Khanda
+Tuberculosis,elderly,female,low,Amritarishta; Guduchi Satva; Manjishtha Churna; Nishamalaki Churna; Sitopaladi Churna
+Tuberculosis,elderly,female,medium,Punarnavadi Kwath; Chandraprabha Vati; Nimbadi Kwath; Maha Sudarshan Churna; Arogyavardhini Vati
+Tuberculosis,elderly,female,high,Arogyavardhini Vati; Maha Sudarshan Churna; Khadirarishta; Yashtimadhu; Nimbadi Kwath
+Common Cold,child,male,low,Amritarishta; Abhrak Bhasma; Guduchi Satva; Maha Sudarshan Churna; Triphala Churna
+Common Cold,child,male,medium,Maha Sudarshan Churna; Ashwagandha Churna; Khadirarishta; Nishamalaki Churna; Amritarishta
+Common Cold,child,male,high,Sitopaladi Churna; Amritarishta; Abhrak Bhasma; Triphala Churna; Nishamalaki Churna
+Common Cold,child,female,low,Arogyavardhini Vati; Nishamalaki Churna; Lasunadi Vati; Sitopaladi Churna; Guduchi Satva
+Common Cold,child,female,medium,Arogyavardhini Vati; Khadirarishta; Amritarishta; Triphala Churna; Guduchi Satva
+Common Cold,child,female,high,Nishamalaki Churna; Amritarishta; Yashtimadhu; Guduchi Satva; Punarnavadi Kwath
+Common Cold,adult,male,low,Abhrak Bhasma; Nimbadi Kwath; Khadirarishta; Haridra Khanda; Guduchi Satva
+Common Cold,adult,male,medium,Triphala Churna; Abhrak Bhasma; Yashtimadhu; Maha Sudarshan Churna; Ashwagandha Churna
+Common Cold,adult,male,high,Sitopaladi Churna; Shatavari Kalpa; Guduchi Satva; Chandraprabha Vati; Yashtimadhu
+Common Cold,adult,female,low,Punarnavadi Kwath; Khadirarishta; Nishamalaki Churna; Triphala Churna; Ashwagandha Churna
+Common Cold,adult,female,medium,Shatavari Kalpa; Chandraprabha Vati; Ashwagandha Churna; Amritarishta; Arogyavardhini Vati
+Common Cold,adult,female,high,Arogyavardhini Vati; Nimbadi Kwath; Abhrak Bhasma; Lasunadi Vati; Triphala Churna
+Common Cold,elderly,male,low,Punarnavadi Kwath; Chandraprabha Vati; Nishamalaki Churna; Maha Sudarshan Churna; Amritarishta
+Common Cold,elderly,male,medium,Lasunadi Vati; Shatavari Kalpa; Yashtimadhu; Arogyavardhini Vati; Punarnavadi Kwath
+Common Cold,elderly,male,high,Nishamalaki Churna; Amritarishta; Yashtimadhu; Haridra Khanda; Khadirarishta
+Common Cold,elderly,female,low,Khadirarishta; Guduchi Satva; Punarnavadi Kwath; Yashtimadhu; Haridra Khanda
+Common Cold,elderly,female,medium,Chandraprabha Vati; Khadirarishta; Manjishtha Churna; Shatavari Kalpa; Lasunadi Vati
+Common Cold,elderly,female,high,Amritarishta; Khadirarishta; Guduchi Satva; Chandraprabha Vati; Abhrak Bhasma
+Pneumonia,child,male,low,Manjishtha Churna; Sitopaladi Churna; Arogyavardhini Vati; Khadirarishta; Triphala Churna
+Pneumonia,child,male,medium,Chandraprabha Vati; Punarnavadi Kwath; Ashwagandha Churna; Nimbadi Kwath; Haridra Khanda
+Pneumonia,child,male,high,Maha Sudarshan Churna; Nimbadi Kwath; Khadirarishta; Triphala Churna; Haridra Khanda
+Pneumonia,child,female,low,Amritarishta; Abhrak Bhasma; Shatavari Kalpa; Lasunadi Vati; Nishamalaki Churna
+Pneumonia,child,female,medium,Amritarishta; Ashwagandha Churna; Abhrak Bhasma; Maha Sudarshan Churna; Manjishtha Churna
+Pneumonia,child,female,high,Amritarishta; Ashwagandha Churna; Triphala Churna; Maha Sudarshan Churna; Punarnavadi Kwath
+Pneumonia,adult,male,low,Ashwagandha Churna; Haridra Khanda; Lasunadi Vati; Punarnavadi Kwath; Manjishtha Churna
+Pneumonia,adult,male,medium,Sitopaladi Churna; Nimbadi Kwath; Maha Sudarshan Churna; Arogyavardhini Vati; Chandraprabha Vati
+Pneumonia,adult,male,high,Haridra Khanda; Sitopaladi Churna; Abhrak Bhasma; Guduchi Satva; Lasunadi Vati
+Pneumonia,adult,female,low,Amritarishta; Haridra Khanda; Punarnavadi Kwath; Maha Sudarshan Churna; Triphala Churna
+Pneumonia,adult,female,medium,Triphala Churna; Nimbadi Kwath; Arogyavardhini Vati; Shatavari Kalpa; Yashtimadhu
+Pneumonia,adult,female,high,Punarnavadi Kwath; Guduchi Satva; Ashwagandha Churna; Lasunadi Vati; Khadirarishta
+Pneumonia,elderly,male,low,Amritarishta; Triphala Churna; Nishamalaki Churna; Ashwagandha Churna; Chandraprabha Vati
+Pneumonia,elderly,male,medium,Guduchi Satva; Chandraprabha Vati; Nimbadi Kwath; Triphala Churna; Sitopaladi Churna
+Pneumonia,elderly,male,high,Khadirarishta; Nimbadi Kwath; Haridra Khanda; Amritarishta; Abhrak Bhasma
+Pneumonia,elderly,female,low,Shatavari Kalpa; Ashwagandha Churna; Arogyavardhini Vati; Yashtimadhu; Manjishtha Churna
+Pneumonia,elderly,female,medium,Haridra Khanda; Punarnavadi Kwath; Maha Sudarshan Churna; Nishamalaki Churna; Abhrak Bhasma
+Pneumonia,elderly,female,high,Chandraprabha Vati; Manjishtha Churna; Nishamalaki Churna; Lasunadi Vati; Abhrak Bhasma
+Dimorphic hemmorhoids(piles),child,male,low,Shatavari Kalpa; Manjishtha Churna; Nimbadi Kwath; Amritarishta; Punarnavadi Kwath
+Dimorphic hemmorhoids(piles),child,male,medium,Guduchi Satva; Haridra Khanda; Chandraprabha Vati; Lasunadi Vati; Nishamalaki Churna
+Dimorphic hemmorhoids(piles),child,male,high,Manjishtha Churna; Arogyavardhini Vati; Ashwagandha Churna; Haridra Khanda; Khadirarishta
+Dimorphic hemmorhoids(piles),child,female,low,Khadirarishta; Punarnavadi Kwath; Shatavari Kalpa; Abhrak Bhasma; Triphala Churna
+Dimorphic hemmorhoids(piles),child,female,medium,Shatavari Kalpa; Yashtimadhu; Nimbadi Kwath; Amritarishta; Maha Sudarshan Churna
+Dimorphic hemmorhoids(piles),child,female,high,Shatavari Kalpa; Punarnavadi Kwath; Chandraprabha Vati; Amritarishta; Arogyavardhini Vati
+Dimorphic hemmorhoids(piles),adult,male,low,Chandraprabha Vati; Maha Sudarshan Churna; Abhrak Bhasma; Shatavari Kalpa; Nishamalaki Churna
+Dimorphic hemmorhoids(piles),adult,male,medium,Manjishtha Churna; Khadirarishta; Shatavari Kalpa; Guduchi Satva; Maha Sudarshan Churna
+Dimorphic hemmorhoids(piles),adult,male,high,Khadirarishta; Haridra Khanda; Abhrak Bhasma; Maha Sudarshan Churna; Arogyavardhini Vati
+Dimorphic hemmorhoids(piles),adult,female,low,Sitopaladi Churna; Guduchi Satva; Maha Sudarshan Churna; Abhrak Bhasma; Haridra Khanda
+Dimorphic hemmorhoids(piles),adult,female,medium,Punarnavadi Kwath; Sitopaladi Churna; Guduchi Satva; Chandraprabha Vati; Nimbadi Kwath
+Dimorphic hemmorhoids(piles),adult,female,high,Lasunadi Vati; Maha Sudarshan Churna; Sitopaladi Churna; Arogyavardhini Vati; Manjishtha Churna
+Dimorphic hemmorhoids(piles),elderly,male,low,Punarnavadi Kwath; Maha Sudarshan Churna; Yashtimadhu; Khadirarishta; Shatavari Kalpa
+Dimorphic hemmorhoids(piles),elderly,male,medium,Nimbadi Kwath; Khadirarishta; Chandraprabha Vati; Ashwagandha Churna; Sitopaladi Churna
+Dimorphic hemmorhoids(piles),elderly,male,high,Arogyavardhini Vati; Ashwagandha Churna; Sitopaladi Churna; Nishamalaki Churna; Amritarishta
+Dimorphic hemmorhoids(piles),elderly,female,low,Punarnavadi Kwath; Guduchi Satva; Yashtimadhu; Nishamalaki Churna; Maha Sudarshan Churna
+Dimorphic hemmorhoids(piles),elderly,female,medium,Chandraprabha Vati; Khadirarishta; Yashtimadhu; Abhrak Bhasma; Sitopaladi Churna
+Dimorphic hemmorhoids(piles),elderly,female,high,Yashtimadhu; Haridra Khanda; Khadirarishta; Chandraprabha Vati; Sitopaladi Churna
+Heart attack,child,male,low,Ashwagandha Churna; Lasunadi Vati; Triphala Churna; Maha Sudarshan Churna; Shatavari Kalpa
+Heart attack,child,male,medium,Haridra Khanda; Amritarishta; Abhrak Bhasma; Nishamalaki Churna; Guduchi Satva
+Heart attack,child,male,high,Arogyavardhini Vati; Haridra Khanda; Amritarishta; Guduchi Satva; Yashtimadhu
+Heart attack,child,female,low,Khadirarishta; Punarnavadi Kwath; Haridra Khanda; Arogyavardhini Vati; Ashwagandha Churna
+Heart attack,child,female,medium,Sitopaladi Churna; Nishamalaki Churna; Nimbadi Kwath; Ashwagandha Churna; Punarnavadi Kwath
+Heart attack,child,female,high,Lasunadi Vati; Amritarishta; Abhrak Bhasma; Guduchi Satva; Khadirarishta
+Heart attack,adult,male,low,Maha Sudarshan Churna; Nishamalaki Churna; Punarnavadi Kwath; Triphala Churna; Lasunadi Vati
+Heart attack,adult,male,medium,Manjishtha Churna; Shatavari Kalpa; Nimbadi Kwath; Amritarishta; Arogyavardhini Vati
+Heart attack,adult,male,high,Abhrak Bhasma; Chandraprabha Vati; Shatavari Kalpa; Khadirarishta; Punarnavadi Kwath
+Heart attack,adult,female,low,Yashtimadhu; Chandraprabha Vati; Nishamalaki Churna; Arogyavardhini Vati; Manjishtha Churna
+Heart attack,adult,female,medium,Maha Sudarshan Churna; Amritarishta; Sitopaladi Churna; Shatavari Kalpa; Manjishtha Churna
+Heart attack,adult,female,high,Amritarishta; Lasunadi Vati; Punarnavadi Kwath; Manjishtha Churna; Guduchi Satva
+Heart attack,elderly,male,low,Arogyavardhini Vati; Chandraprabha Vati; Sitopaladi Churna; Maha Sudarshan Churna; Punarnavadi Kwath
+Heart attack,elderly,male,medium,Nimbadi Kwath; Sitopaladi Churna; Shatavari Kalpa; Amritarishta; Lasunadi Vati
+Heart attack,elderly,male,high,Khadirarishta; Shatavari Kalpa; Abhrak Bhasma; Maha Sudarshan Churna; Lasunadi Vati
+Heart attack,elderly,female,low,Lasunadi Vati; Nishamalaki Churna; Nimbadi Kwath; Arogyavardhini Vati; Abhrak Bhasma
+Heart attack,elderly,female,medium,Ashwagandha Churna; Chandraprabha Vati; Nishamalaki Churna; Abhrak Bhasma; Sitopaladi Churna
+Heart attack,elderly,female,high,Nishamalaki Churna; Maha Sudarshan Churna; Shatavari Kalpa; Yashtimadhu; Haridra Khanda
+Varicose veins,child,male,low,Chandraprabha Vati; Sitopaladi Churna; Amritarishta; Abhrak Bhasma; Yashtimadhu
+Varicose veins,child,male,medium,Nimbadi Kwath; Abhrak Bhasma; Chandraprabha Vati; Khadirarishta; Lasunadi Vati
+Varicose veins,child,male,high,Chandraprabha Vati; Amritarishta; Guduchi Satva; Yashtimadhu; Punarnavadi Kwath
+Varicose veins,child,female,low,Abhrak Bhasma; Chandraprabha Vati; Triphala Churna; Punarnavadi Kwath; Arogyavardhini Vati
+Varicose veins,child,female,medium,Sitopaladi Churna; Guduchi Satva; Amritarishta; Triphala Churna; Punarnavadi Kwath
+Varicose veins,child,female,high,Yashtimadhu; Chandraprabha Vati; Maha Sudarshan Churna; Abhrak Bhasma; Ashwagandha Churna
+Varicose veins,adult,male,low,Nishamalaki Churna; Yashtimadhu; Guduchi Satva; Shatavari Kalpa; Haridra Khanda
+Varicose veins,adult,male,medium,Manjishtha Churna; Amritarishta; Punarnavadi Kwath; Sitopaladi Churna; Abhrak Bhasma
+Varicose veins,adult,male,high,Nimbadi Kwath; Guduchi Satva; Abhrak Bhasma; Yashtimadhu; Sitopaladi Churna
+Varicose veins,adult,female,low,Abhrak Bhasma; Yashtimadhu; Maha Sudarshan Churna; Lasunadi Vati; Arogyavardhini Vati
+Varicose veins,adult,female,medium,Punarnavadi Kwath; Ashwagandha Churna; Nimbadi Kwath; Haridra Khanda; Khadirarishta
+Varicose veins,adult,female,high,Nishamalaki Churna; Nimbadi Kwath; Shatavari Kalpa; Arogyavardhini Vati; Guduchi Satva
+Varicose veins,elderly,male,low,Maha Sudarshan Churna; Lasunadi Vati; Haridra Khanda; Punarnavadi Kwath; Yashtimadhu
+Varicose veins,elderly,male,medium,Abhrak Bhasma; Yashtimadhu; Ashwagandha Churna; Punarnavadi Kwath; Sitopaladi Churna
+Varicose veins,elderly,male,high,Haridra Khanda; Punarnavadi Kwath; Khadirarishta; Arogyavardhini Vati; Ashwagandha Churna
+Varicose veins,elderly,female,low,Haridra Khanda; Arogyavardhini Vati; Amritarishta; Maha Sudarshan Churna; Chandraprabha Vati
+Varicose veins,elderly,female,medium,Maha Sudarshan Churna; Haridra Khanda; Shatavari Kalpa; Yashtimadhu; Khadirarishta
+Varicose veins,elderly,female,high,Khadirarishta; Chandraprabha Vati; Manjishtha Churna; Arogyavardhini Vati; Maha Sudarshan Churna
+Hypothyroidism,child,male,low,Punarnavadi Kwath; Triphala Churna; Chandraprabha Vati; Nimbadi Kwath; Yashtimadhu
+Hypothyroidism,child,male,medium,Triphala Churna; Amritarishta; Yashtimadhu; Khadirarishta; Nimbadi Kwath
+Hypothyroidism,child,male,high,Sitopaladi Churna; Nishamalaki Churna; Haridra Khanda; Shatavari Kalpa; Lasunadi Vati
+Hypothyroidism,child,female,low,Ashwagandha Churna; Amritarishta; Guduchi Satva; Abhrak Bhasma; Yashtimadhu
+Hypothyroidism,child,female,medium,Arogyavardhini Vati; Nishamalaki Churna; Haridra Khanda; Triphala Churna; Maha Sudarshan Churna
+Hypothyroidism,child,female,high,Maha Sudarshan Churna; Nishamalaki Churna; Punarnavadi Kwath; Yashtimadhu; Lasunadi Vati
+Hypothyroidism,adult,male,low,Nimbadi Kwath; Abhrak Bhasma; Arogyavardhini Vati; Haridra Khanda; Amritarishta
+Hypothyroidism,adult,male,medium,Sitopaladi Churna; Manjishtha Churna; Abhrak Bhasma; Lasunadi Vati; Triphala Churna
+Hypothyroidism,adult,male,high,Khadirarishta; Haridra Khanda; Sitopaladi Churna; Ashwagandha Churna; Nimbadi Kwath
+Hypothyroidism,adult,female,low,Ashwagandha Churna; Maha Sudarshan Churna; Yashtimadhu; Arogyavardhini Vati; Amritarishta
+Hypothyroidism,adult,female,medium,Haridra Khanda; Ashwagandha Churna; Manjishtha Churna; Khadirarishta; Sitopaladi Churna
+Hypothyroidism,adult,female,high,Punarnavadi Kwath; Triphala Churna; Amritarishta; Guduchi Satva; Sitopaladi Churna
+Hypothyroidism,elderly,male,low,Arogyavardhini Vati; Nishamalaki Churna; Lasunadi Vati; Ashwagandha Churna; Abhrak Bhasma
+Hypothyroidism,elderly,male,medium,Maha Sudarshan Churna; Lasunadi Vati; Haridra Khanda; Yashtimadhu; Abhrak Bhasma
+Hypothyroidism,elderly,male,high,Haridra Khanda; Nimbadi Kwath; Manjishtha Churna; Sitopaladi Churna; Maha Sudarshan Churna
+Hypothyroidism,elderly,female,low,Manjishtha Churna; Khadirarishta; Amritarishta; Lasunadi Vati; Triphala Churna
+Hypothyroidism,elderly,female,medium,Yashtimadhu; Punarnavadi Kwath; Arogyavardhini Vati; Nishamalaki Churna; Manjishtha Churna
+Hypothyroidism,elderly,female,high,Ashwagandha Churna; Yashtimadhu; Punarnavadi Kwath; Arogyavardhini Vati; Khadirarishta
+Hyperthyroidism,child,male,low,Haridra Khanda; Sitopaladi Churna; Manjishtha Churna; Triphala Churna; Lasunadi Vati
+Hyperthyroidism,child,male,medium,Triphala Churna; Haridra Khanda; Sitopaladi Churna; Maha Sudarshan Churna; Yashtimadhu
+Hyperthyroidism,child,male,high,Manjishtha Churna; Chandraprabha Vati; Nishamalaki Churna; Arogyavardhini Vati; Amritarishta
+Hyperthyroidism,child,female,low,Lasunadi Vati; Nishamalaki Churna; Abhrak Bhasma; Sitopaladi Churna; Amritarishta
+Hyperthyroidism,child,female,medium,Arogyavardhini Vati; Maha Sudarshan Churna; Punarnavadi Kwath; Lasunadi Vati; Ashwagandha Churna
+Hyperthyroidism,child,female,high,Khadirarishta; Chandraprabha Vati; Lasunadi Vati; Arogyavardhini Vati; Sitopaladi Churna
+Hyperthyroidism,adult,male,low,Shatavari Kalpa; Haridra Khanda; Chandraprabha Vati; Triphala Churna; Ashwagandha Churna
+Hyperthyroidism,adult,male,medium,Maha Sudarshan Churna; Yashtimadhu; Lasunadi Vati; Shatavari Kalpa; Chandraprabha Vati
+Hyperthyroidism,adult,male,high,Chandraprabha Vati; Shatavari Kalpa; Nimbadi Kwath; Lasunadi Vati; Khadirarishta
+Hyperthyroidism,adult,female,low,Maha Sudarshan Churna; Khadirarishta; Ashwagandha Churna; Abhrak Bhasma; Punarnavadi Kwath
+Hyperthyroidism,adult,female,medium,Abhrak Bhasma; Lasunadi Vati; Punarnavadi Kwath; Manjishtha Churna; Yashtimadhu
+Hyperthyroidism,adult,female,high,Manjishtha Churna; Abhrak Bhasma; Haridra Khanda; Ashwagandha Churna; Maha Sudarshan Churna
+Hyperthyroidism,elderly,male,low,Guduchi Satva; Arogyavardhini Vati; Yashtimadhu; Ashwagandha Churna; Shatavari Kalpa
+Hyperthyroidism,elderly,male,medium,Guduchi Satva; Abhrak Bhasma; Manjishtha Churna; Maha Sudarshan Churna; Lasunadi Vati
+Hyperthyroidism,elderly,male,high,Nimbadi Kwath; Punarnavadi Kwath; Shatavari Kalpa; Arogyavardhini Vati; Guduchi Satva
+Hyperthyroidism,elderly,female,low,Punarnavadi Kwath; Triphala Churna; Yashtimadhu; Abhrak Bhasma; Ashwagandha Churna
+Hyperthyroidism,elderly,female,medium,Shatavari Kalpa; Lasunadi Vati; Yashtimadhu; Chandraprabha Vati; Manjishtha Churna
+Hyperthyroidism,elderly,female,high,Maha Sudarshan Churna; Manjishtha Churna; Abhrak Bhasma; Lasunadi Vati; Triphala Churna
+Hypoglycemia,child,male,low,Khadirarishta; Arogyavardhini Vati; Nishamalaki Churna; Nimbadi Kwath; Abhrak Bhasma
+Hypoglycemia,child,male,medium,Abhrak Bhasma; Triphala Churna; Nimbadi Kwath; Lasunadi Vati; Sitopaladi Churna
+Hypoglycemia,child,male,high,Yashtimadhu; Ashwagandha Churna; Guduchi Satva; Sitopaladi Churna; Haridra Khanda
+Hypoglycemia,child,female,low,Nishamalaki Churna; Yashtimadhu; Amritarishta; Khadirarishta; Chandraprabha Vati
+Hypoglycemia,child,female,medium,Abhrak Bhasma; Lasunadi Vati; Ashwagandha Churna; Yashtimadhu; Sitopaladi Churna
+Hypoglycemia,child,female,high,Amritarishta; Guduchi Satva; Khadirarishta; Nishamalaki Churna; Maha Sudarshan Churna
+Hypoglycemia,adult,male,low,Ashwagandha Churna; Triphala Churna; Chandraprabha Vati; Sitopaladi Churna; Guduchi Satva
+Hypoglycemia,adult,male,medium,Chandraprabha Vati; Nishamalaki Churna; Haridra Khanda; Punarnavadi Kwath; Manjishtha Churna
+Hypoglycemia,adult,male,high,Guduchi Satva; Yashtimadhu; Ashwagandha Churna; Sitopaladi Churna; Triphala Churna
+Hypoglycemia,adult,female,low,Khadirarishta; Ashwagandha Churna; Amritarishta; Maha Sudarshan Churna; Manjishtha Churna
+Hypoglycemia,adult,female,medium,Nishamalaki Churna; Amritarishta; Ashwagandha Churna; Khadirarishta; Lasunadi Vati
+Hypoglycemia,adult,female,high,Haridra Khanda; Arogyavardhini Vati; Nishamalaki Churna; Punarnavadi Kwath; Abhrak Bhasma
+Hypoglycemia,elderly,male,low,Yashtimadhu; Arogyavardhini Vati; Abhrak Bhasma; Nishamalaki Churna; Chandraprabha Vati
+Hypoglycemia,elderly,male,medium,Yashtimadhu; Chandraprabha Vati; Nishamalaki Churna; Amritarishta; Arogyavardhini Vati
+Hypoglycemia,elderly,male,high,Haridra Khanda; Ashwagandha Churna; Abhrak Bhasma; Triphala Churna; Manjishtha Churna
+Hypoglycemia,elderly,female,low,Haridra Khanda; Lasunadi Vati; Maha Sudarshan Churna; Shatavari Kalpa; Punarnavadi Kwath
+Hypoglycemia,elderly,female,medium,Haridra Khanda; Maha Sudarshan Churna; Amritarishta; Manjishtha Churna; Chandraprabha Vati
+Hypoglycemia,elderly,female,high,Khadirarishta; Nishamalaki Churna; Lasunadi Vati; Arogyavardhini Vati; Abhrak Bhasma
+Osteoarthristis,child,male,low,Yashtimadhu; Ashwagandha Churna; Triphala Churna; Punarnavadi Kwath; Shatavari Kalpa
+Osteoarthristis,child,male,medium,Chandraprabha Vati; Sitopaladi Churna; Manjishtha Churna; Khadirarishta; Nishamalaki Churna
+Osteoarthristis,child,male,high,Sitopaladi Churna; Abhrak Bhasma; Maha Sudarshan Churna; Haridra Khanda; Nimbadi Kwath
+Osteoarthristis,child,female,low,Ashwagandha Churna; Nimbadi Kwath; Punarnavadi Kwath; Guduchi Satva; Yashtimadhu
+Osteoarthristis,child,female,medium,Nishamalaki Churna; Arogyavardhini Vati; Triphala Churna; Abhrak Bhasma; Haridra Khanda
+Osteoarthristis,child,female,high,Nishamalaki Churna; Lasunadi Vati; Khadirarishta; Chandraprabha Vati; Ashwagandha Churna
+Osteoarthristis,adult,male,low,Chandraprabha Vati; Nimbadi Kwath; Khadirarishta; Triphala Churna; Punarnavadi Kwath
+Osteoarthristis,adult,male,medium,Arogyavardhini Vati; Punarnavadi Kwath; Amritarishta; Triphala Churna; Haridra Khanda
+Osteoarthristis,adult,male,high,Sitopaladi Churna; Triphala Churna; Guduchi Satva; Punarnavadi Kwath; Nishamalaki Churna
+Osteoarthristis,adult,female,low,Sitopaladi Churna; Khadirarishta; Punarnavadi Kwath; Abhrak Bhasma; Amritarishta
+Osteoarthristis,adult,female,medium,Amritarishta; Punarnavadi Kwath; Shatavari Kalpa; Yashtimadhu; Triphala Churna
+Osteoarthristis,adult,female,high,Punarnavadi Kwath; Abhrak Bhasma; Nishamalaki Churna; Nimbadi Kwath; Triphala Churna
+Osteoarthristis,elderly,male,low,Nishamalaki Churna; Nimbadi Kwath; Ashwagandha Churna; Triphala Churna; Abhrak Bhasma
+Osteoarthristis,elderly,male,medium,Yashtimadhu; Lasunadi Vati; Nishamalaki Churna; Triphala Churna; Khadirarishta
+Osteoarthristis,elderly,male,high,Sitopaladi Churna; Nishamalaki Churna; Shatavari Kalpa; Lasunadi Vati; Triphala Churna
+Osteoarthristis,elderly,female,low,Punarnavadi Kwath; Manjishtha Churna; Haridra Khanda; Amritarishta; Ashwagandha Churna
+Osteoarthristis,elderly,female,medium,Haridra Khanda; Abhrak Bhasma; Guduchi Satva; Shatavari Kalpa; Khadirarishta
+Osteoarthristis,elderly,female,high,Nimbadi Kwath; Arogyavardhini Vati; Maha Sudarshan Churna; Manjishtha Churna; Khadirarishta
+Arthritis,child,male,low,Haridra Khanda; Abhrak Bhasma; Guduchi Satva; Lasunadi Vati; Triphala Churna
+Arthritis,child,male,medium,Triphala Churna; Nishamalaki Churna; Maha Sudarshan Churna; Khadirarishta; Chandraprabha Vati
+Arthritis,child,male,high,Haridra Khanda; Nishamalaki Churna; Triphala Churna; Ashwagandha Churna; Khadirarishta
+Arthritis,child,female,low,Yashtimadhu; Nimbadi Kwath; Abhrak Bhasma; Punarnavadi Kwath; Maha Sudarshan Churna
+Arthritis,child,female,medium,Ashwagandha Churna; Arogyavardhini Vati; Guduchi Satva; Haridra Khanda; Nimbadi Kwath
+Arthritis,child,female,high,Yashtimadhu; Chandraprabha Vati; Sitopaladi Churna; Punarnavadi Kwath; Maha Sudarshan Churna
+Arthritis,adult,male,low,Punarnavadi Kwath; Maha Sudarshan Churna; Amritarishta; Ashwagandha Churna; Yashtimadhu
+Arthritis,adult,male,medium,Maha Sudarshan Churna; Guduchi Satva; Manjishtha Churna; Chandraprabha Vati; Arogyavardhini Vati
+Arthritis,adult,male,high,Guduchi Satva; Manjishtha Churna; Yashtimadhu; Sitopaladi Churna; Amritarishta
+Arthritis,adult,female,low,Maha Sudarshan Churna; Punarnavadi Kwath; Nishamalaki Churna; Sitopaladi Churna; Ashwagandha Churna
+Arthritis,adult,female,medium,Amritarishta; Shatavari Kalpa; Yashtimadhu; Guduchi Satva; Abhrak Bhasma
+Arthritis,adult,female,high,Maha Sudarshan Churna; Punarnavadi Kwath; Yashtimadhu; Amritarishta; Arogyavardhini Vati
+Arthritis,elderly,male,low,Khadirarishta; Nimbadi Kwath; Manjishtha Churna; Arogyavardhini Vati; Abhrak Bhasma
+Arthritis,elderly,male,medium,Chandraprabha Vati; Lasunadi Vati; Abhrak Bhasma; Amritarishta; Punarnavadi Kwath
+Arthritis,elderly,male,high,Triphala Churna; Manjishtha Churna; Khadirarishta; Punarnavadi Kwath; Nimbadi Kwath
+Arthritis,elderly,female,low,Punarnavadi Kwath; Nimbadi Kwath; Amritarishta; Manjishtha Churna; Sitopaladi Churna
+Arthritis,elderly,female,medium,Yashtimadhu; Abhrak Bhasma; Punarnavadi Kwath; Maha Sudarshan Churna; Guduchi Satva
+Arthritis,elderly,female,high,Triphala Churna; Nishamalaki Churna; Ashwagandha Churna; Arogyavardhini Vati; Haridra Khanda
+(vertigo) Paroymsal  Positional Vertigo,child,male,low,Shatavari Kalpa; Ashwagandha Churna; Lasunadi Vati; Khadirarishta; Abhrak Bhasma
+(vertigo) Paroymsal  Positional Vertigo,child,male,medium,Triphala Churna; Arogyavardhini Vati; Abhrak Bhasma; Punarnavadi Kwath; Shatavari Kalpa
+(vertigo) Paroymsal  Positional Vertigo,child,male,high,Manjishtha Churna; Amritarishta; Lasunadi Vati; Guduchi Satva; Abhrak Bhasma
+(vertigo) Paroymsal  Positional Vertigo,child,female,low,Lasunadi Vati; Amritarishta; Triphala Churna; Guduchi Satva; Manjishtha Churna
+(vertigo) Paroymsal  Positional Vertigo,child,female,medium,Arogyavardhini Vati; Shatavari Kalpa; Yashtimadhu; Nishamalaki Churna; Nimbadi Kwath
+(vertigo) Paroymsal  Positional Vertigo,child,female,high,Punarnavadi Kwath; Manjishtha Churna; Sitopaladi Churna; Nishamalaki Churna; Lasunadi Vati
+(vertigo) Paroymsal  Positional Vertigo,adult,male,low,Maha Sudarshan Churna; Shatavari Kalpa; Amritarishta; Manjishtha Churna; Chandraprabha Vati
+(vertigo) Paroymsal  Positional Vertigo,adult,male,medium,Sitopaladi Churna; Lasunadi Vati; Maha Sudarshan Churna; Guduchi Satva; Chandraprabha Vati
+(vertigo) Paroymsal  Positional Vertigo,adult,male,high,Khadirarishta; Amritarishta; Nimbadi Kwath; Maha Sudarshan Churna; Ashwagandha Churna
+(vertigo) Paroymsal  Positional Vertigo,adult,female,low,Triphala Churna; Khadirarishta; Punarnavadi Kwath; Ashwagandha Churna; Yashtimadhu
+(vertigo) Paroymsal  Positional Vertigo,adult,female,medium,Nimbadi Kwath; Haridra Khanda; Manjishtha Churna; Arogyavardhini Vati; Nishamalaki Churna
+(vertigo) Paroymsal  Positional Vertigo,adult,female,high,Triphala Churna; Ashwagandha Churna; Yashtimadhu; Amritarishta; Nimbadi Kwath
+(vertigo) Paroymsal  Positional Vertigo,elderly,male,low,Abhrak Bhasma; Yashtimadhu; Shatavari Kalpa; Arogyavardhini Vati; Nimbadi Kwath
+(vertigo) Paroymsal  Positional Vertigo,elderly,male,medium,Chandraprabha Vati; Nishamalaki Churna; Sitopaladi Churna; Shatavari Kalpa; Haridra Khanda
+(vertigo) Paroymsal  Positional Vertigo,elderly,male,high,Guduchi Satva; Maha Sudarshan Churna; Shatavari Kalpa; Punarnavadi Kwath; Nimbadi Kwath
+(vertigo) Paroymsal  Positional Vertigo,elderly,female,low,Punarnavadi Kwath; Haridra Khanda; Nimbadi Kwath; Arogyavardhini Vati; Khadirarishta
+(vertigo) Paroymsal  Positional Vertigo,elderly,female,medium,Maha Sudarshan Churna; Abhrak Bhasma; Guduchi Satva; Triphala Churna; Shatavari Kalpa
+(vertigo) Paroymsal  Positional Vertigo,elderly,female,high,Yashtimadhu; Khadirarishta; Manjishtha Churna; Arogyavardhini Vati; Chandraprabha Vati
+Acne,child,male,low,Punarnavadi Kwath; Ashwagandha Churna; Lasunadi Vati; Guduchi Satva; Shatavari Kalpa
+Acne,child,male,medium,Arogyavardhini Vati; Lasunadi Vati; Nimbadi Kwath; Amritarishta; Punarnavadi Kwath
+Acne,child,male,high,Lasunadi Vati; Sitopaladi Churna; Nishamalaki Churna; Khadirarishta; Shatavari Kalpa
+Acne,child,female,low,Shatavari Kalpa; Ashwagandha Churna; Maha Sudarshan Churna; Yashtimadhu; Nishamalaki Churna
+Acne,child,female,medium,Abhrak Bhasma; Nimbadi Kwath; Manjishtha Churna; Yashtimadhu; Amritarishta
+Acne,child,female,high,Guduchi Satva; Amritarishta; Punarnavadi Kwath; Yashtimadhu; Shatavari Kalpa
+Acne,adult,male,low,Yashtimadhu; Nishamalaki Churna; Shatavari Kalpa; Manjishtha Churna; Chandraprabha Vati
+Acne,adult,male,medium,Triphala Churna; Amritarishta; Nishamalaki Churna; Shatavari Kalpa; Abhrak Bhasma
+Acne,adult,male,high,Sitopaladi Churna; Chandraprabha Vati; Ashwagandha Churna; Guduchi Satva; Khadirarishta
+Acne,adult,female,low,Abhrak Bhasma; Ashwagandha Churna; Sitopaladi Churna; Lasunadi Vati; Khadirarishta
+Acne,adult,female,medium,Khadirarishta; Lasunadi Vati; Nimbadi Kwath; Sitopaladi Churna; Shatavari Kalpa
+Acne,adult,female,high,Khadirarishta; Nimbadi Kwath; Manjishtha Churna; Maha Sudarshan Churna; Nishamalaki Churna
+Acne,elderly,male,low,Punarnavadi Kwath; Abhrak Bhasma; Ashwagandha Churna; Nishamalaki Churna; Arogyavardhini Vati
+Acne,elderly,male,medium,Maha Sudarshan Churna; Yashtimadhu; Guduchi Satva; Sitopaladi Churna; Amritarishta
+Acne,elderly,male,high,Nimbadi Kwath; Abhrak Bhasma; Punarnavadi Kwath; Chandraprabha Vati; Khadirarishta
+Acne,elderly,female,low,Ashwagandha Churna; Triphala Churna; Nimbadi Kwath; Guduchi Satva; Manjishtha Churna
+Acne,elderly,female,medium,Lasunadi Vati; Triphala Churna; Ashwagandha Churna; Maha Sudarshan Churna; Manjishtha Churna
+Acne,elderly,female,high,Haridra Khanda; Lasunadi Vati; Nishamalaki Churna; Abhrak Bhasma; Maha Sudarshan Churna
+Urinary tract infection,child,male,low,Ashwagandha Churna; Nimbadi Kwath; Guduchi Satva; Shatavari Kalpa; Lasunadi Vati
+Urinary tract infection,child,male,medium,Nimbadi Kwath; Triphala Churna; Lasunadi Vati; Guduchi Satva; Chandraprabha Vati
+Urinary tract infection,child,male,high,Nishamalaki Churna; Khadirarishta; Yashtimadhu; Arogyavardhini Vati; Manjishtha Churna
+Urinary tract infection,child,female,low,Abhrak Bhasma; Sitopaladi Churna; Chandraprabha Vati; Punarnavadi Kwath; Nimbadi Kwath
+Urinary tract infection,child,female,medium,Ashwagandha Churna; Sitopaladi Churna; Punarnavadi Kwath; Abhrak Bhasma; Nishamalaki Churna
+Urinary tract infection,child,female,high,Punarnavadi Kwath; Chandraprabha Vati; Haridra Khanda; Khadirarishta; Ashwagandha Churna
+Urinary tract infection,adult,male,low,Chandraprabha Vati; Maha Sudarshan Churna; Punarnavadi Kwath; Shatavari Kalpa; Guduchi Satva
+Urinary tract infection,adult,male,medium,Maha Sudarshan Churna; Yashtimadhu; Manjishtha Churna; Nishamalaki Churna; Lasunadi Vati
+Urinary tract infection,adult,male,high,Khadirarishta; Guduchi Satva; Abhrak Bhasma; Arogyavardhini Vati; Shatavari Kalpa
+Urinary tract infection,adult,female,low,Sitopaladi Churna; Nishamalaki Churna; Abhrak Bhasma; Punarnavadi Kwath; Chandraprabha Vati
+Urinary tract infection,adult,female,medium,Yashtimadhu; Sitopaladi Churna; Guduchi Satva; Khadirarishta; Punarnavadi Kwath
+Urinary tract infection,adult,female,high,Shatavari Kalpa; Manjishtha Churna; Abhrak Bhasma; Lasunadi Vati; Haridra Khanda
+Urinary tract infection,elderly,male,low,Maha Sudarshan Churna; Abhrak Bhasma; Ashwagandha Churna; Nishamalaki Churna; Nimbadi Kwath
+Urinary tract infection,elderly,male,medium,Manjishtha Churna; Guduchi Satva; Punarnavadi Kwath; Nishamalaki Churna; Khadirarishta
+Urinary tract infection,elderly,male,high,Khadirarishta; Nimbadi Kwath; Chandraprabha Vati; Guduchi Satva; Manjishtha Churna
+Urinary tract infection,elderly,female,low,Lasunadi Vati; Arogyavardhini Vati; Sitopaladi Churna; Nimbadi Kwath; Amritarishta
+Urinary tract infection,elderly,female,medium,Lasunadi Vati; Sitopaladi Churna; Guduchi Satva; Haridra Khanda; Ashwagandha Churna
+Urinary tract infection,elderly,female,high,Maha Sudarshan Churna; Nimbadi Kwath; Lasunadi Vati; Abhrak Bhasma; Ashwagandha Churna
+Psoriasis,child,male,low,Triphala Churna; Nimbadi Kwath; Khadirarishta; Ashwagandha Churna; Manjishtha Churna
+Psoriasis,child,male,medium,Nishamalaki Churna; Lasunadi Vati; Guduchi Satva; Khadirarishta; Chandraprabha Vati
+Psoriasis,child,male,high,Yashtimadhu; Haridra Khanda; Guduchi Satva; Punarnavadi Kwath; Maha Sudarshan Churna
+Psoriasis,child,female,low,Nimbadi Kwath; Yashtimadhu; Khadirarishta; Manjishtha Churna; Punarnavadi Kwath
+Psoriasis,child,female,medium,Lasunadi Vati; Nishamalaki Churna; Khadirarishta; Haridra Khanda; Amritarishta
+Psoriasis,child,female,high,Abhrak Bhasma; Sitopaladi Churna; Manjishtha Churna; Maha Sudarshan Churna; Lasunadi Vati
+Psoriasis,adult,male,low,Khadirarishta; Ashwagandha Churna; Lasunadi Vati; Guduchi Satva; Triphala Churna
+Psoriasis,adult,male,medium,Yashtimadhu; Arogyavardhini Vati; Khadirarishta; Haridra Khanda; Abhrak Bhasma
+Psoriasis,adult,male,high,Khadirarishta; Amritarishta; Punarnavadi Kwath; Abhrak Bhasma; Nimbadi Kwath
+Psoriasis,adult,female,low,Chandraprabha Vati; Sitopaladi Churna; Yashtimadhu; Lasunadi Vati; Shatavari Kalpa
+Psoriasis,adult,female,medium,Chandraprabha Vati; Haridra Khanda; Manjishtha Churna; Arogyavardhini Vati; Shatavari Kalpa
+Psoriasis,adult,female,high,Ashwagandha Churna; Guduchi Satva; Arogyavardhini Vati; Maha Sudarshan Churna; Amritarishta
+Psoriasis,elderly,male,low,Maha Sudarshan Churna; Yashtimadhu; Lasunadi Vati; Guduchi Satva; Ashwagandha Churna
+Psoriasis,elderly,male,medium,Khadirarishta; Arogyavardhini Vati; Manjishtha Churna; Nimbadi Kwath; Guduchi Satva
+Psoriasis,elderly,male,high,Chandraprabha Vati; Abhrak Bhasma; Ashwagandha Churna; Khadirarishta; Triphala Churna
+Psoriasis,elderly,female,low,Arogyavardhini Vati; Khadirarishta; Sitopaladi Churna; Manjishtha Churna; Shatavari Kalpa
+Psoriasis,elderly,female,medium,Haridra Khanda; Manjishtha Churna; Shatavari Kalpa; Lasunadi Vati; Sitopaladi Churna
+Psoriasis,elderly,female,high,Yashtimadhu; Amritarishta; Manjishtha Churna; Maha Sudarshan Churna; Shatavari Kalpa
+Impetigo,child,male,low,Nimbadi Kwath; Ashwagandha Churna; Maha Sudarshan Churna; Manjishtha Churna; Lasunadi Vati
+Impetigo,child,male,medium,Nishamalaki Churna; Guduchi Satva; Amritarishta; Manjishtha Churna; Ashwagandha Churna
+Impetigo,child,male,high,Chandraprabha Vati; Arogyavardhini Vati; Khadirarishta; Sitopaladi Churna; Ashwagandha Churna
+Impetigo,child,female,low,Sitopaladi Churna; Ashwagandha Churna; Yashtimadhu; Triphala Churna; Nimbadi Kwath
+Impetigo,child,female,medium,Haridra Khanda; Chandraprabha Vati; Nishamalaki Churna; Ashwagandha Churna; Abhrak Bhasma
+Impetigo,child,female,high,Sitopaladi Churna; Maha Sudarshan Churna; Nimbadi Kwath; Guduchi Satva; Lasunadi Vati
+Impetigo,adult,male,low,Nimbadi Kwath; Yashtimadhu; Arogyavardhini Vati; Chandraprabha Vati; Khadirarishta
+Impetigo,adult,male,medium,Ashwagandha Churna; Abhrak Bhasma; Khadirarishta; Triphala Churna; Chandraprabha Vati
+Impetigo,adult,male,high,Haridra Khanda; Abhrak Bhasma; Guduchi Satva; Khadirarishta; Manjishtha Churna
+Impetigo,adult,female,low,Abhrak Bhasma; Triphala Churna; Nimbadi Kwath; Yashtimadhu; Sitopaladi Churna
+Impetigo,adult,female,medium,Arogyavardhini Vati; Ashwagandha Churna; Chandraprabha Vati; Nimbadi Kwath; Triphala Churna
+Impetigo,adult,female,high,Maha Sudarshan Churna; Ashwagandha Churna; Abhrak Bhasma; Shatavari Kalpa; Manjishtha Churna
+Impetigo,elderly,male,low,Khadirarishta; Yashtimadhu; Punarnavadi Kwath; Haridra Khanda; Maha Sudarshan Churna
+Impetigo,elderly,male,medium,Sitopaladi Churna; Khadirarishta; Triphala Churna; Punarnavadi Kwath; Nishamalaki Churna
+Impetigo,elderly,male,high,Punarnavadi Kwath; Nishamalaki Churna; Chandraprabha Vati; Ashwagandha Churna; Amritarishta
+Impetigo,elderly,female,low,Yashtimadhu; Triphala Churna; Khadirarishta; Nimbadi Kwath; Guduchi Satva
+Impetigo,elderly,female,medium,Sitopaladi Churna; Punarnavadi Kwath; Haridra Khanda; Nishamalaki Churna; Ashwagandha Churna
+Impetigo,elderly,female,high,Arogyavardhini Vati; Abhrak Bhasma; Sitopaladi Churna; Guduchi Satva; Triphala Churna
